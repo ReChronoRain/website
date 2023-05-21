@@ -7,5 +7,7 @@ const pkg = require('vitepress/package.json')
 
 export default defineConfig( {
     title: 'Cemiuiler',
-    locales: locales.locales
+    locales: locales.locales,
+
+    srcExclude: ['README.md']
 })
