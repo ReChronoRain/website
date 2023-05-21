@@ -40,8 +40,9 @@ jobs:
       - name: Upload pages branch
         if: success()
         run: |
+          rm -rf $GITHUB_WORKSPACE/.git
           cd $GITHUB_WORKSPACE/.vitepress/dist
-          git add .
+          git init
           git commit -m "update$(TZ='Asia/Shanghai' date +@%Y%m%d)"
-          git push --quiet "git@github.com:Cemiuiler-Development-Team/website.git" HEAD:pages -f
+          git push -f "git@github.com:Cemiuiler-Development-Team/website.git" HEAD:pages
  
