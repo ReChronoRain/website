@@ -42,7 +42,11 @@ jobs:
         run: |
           rm -rf $GITHUB_WORKSPACE/.git
           cd $GITHUB_WORKSPACE/.vitepress/dist
+          git config --global init.defaultBranch pages
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git init
+          git add .
           git commit -m "update$(TZ='Asia/Shanghai' date +@%Y%m%d)"
           git push -f "git@github.com:Cemiuiler-Development-Team/website.git" HEAD:pages
  
