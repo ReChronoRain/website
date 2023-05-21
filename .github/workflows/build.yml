@@ -1,0 +1,47 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      NODE_VERSION: '18'
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn --frozen-lockfile
+
+      - name: Build site
+        run: yarn build
+
+      - name: Upload Artefact
+        if: success()
+        uses: actions/upload-artifact@main
+        with:
+          name: dist
+          path: .vitepress/dist
+
+      - name: Upload pages branch
+        if: success()
+        run: |
+          cd $GITHUB_WORKSPACE/.vitepress/dist
+          git add .
+          git commit -m "update$(TZ='Asia/Shanghai' date +@%Y%m%d)"
+          git push --quiet "git@github.com:Cemiuiler-Development-Team/website.git" HEAD:pages -f
+ 
