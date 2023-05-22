@@ -2,7 +2,7 @@
 
 - [github releases下载](https://github.com/Sevtinge/Cemiuiler/releases)
  
-- [蓝奏云链接(由@Voyager维护)](https://api.sevtinge.cc/update.php)
+- [蓝奏云直连下载](https://api.sevtinge.cc/update.php)
 
 意见反馈&交流群：[点击查看](/Support.html)
 
