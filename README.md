@@ -2,7 +2,7 @@
 
 https://cemiuiler.sevtinge.cc
 
-这里是 Cemiuiler 官网的仓库
+这里是 Cemiuiler 官网的仓库(前端)
 
 ## 开发
 
