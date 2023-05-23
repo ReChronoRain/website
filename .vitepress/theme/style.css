@@ -115,3 +115,7 @@
     min-height: 380px
   }
 }
+
+body {
+  font-family: MiSans;
+}
