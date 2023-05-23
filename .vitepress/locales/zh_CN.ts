@@ -25,6 +25,7 @@ function nav() {
     return [
         { text: '下载', link: '/Download.html' },
         { text: '捐赠', link: 'https://www.sevtinge.cc/t/donation.html' },
-        { text: '感谢列表', link: '/Thank.html' }
+        { text: '感谢列表', link: '/Thank.html' },
+        { text: '用户交流', link: '/Support.html' }
     ]
 }
