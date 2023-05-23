@@ -12,13 +12,13 @@ hero:
   actions:
     - theme: brand
       text: 下載 ->
-      link: /Download.html
+      link: /zh_TW/Download.html
     - theme: alt
       text: GitHub
       link: https://github.com/Sevtinge/Cemiuiler
     - theme: alt
       text: 感謝列表
-      link: /Thank.html
+      link: /zh_TW/Thank.html
 
 features:
   - title: 集中

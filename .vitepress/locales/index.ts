@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 import en from './en'
 import zh_CN from './zh_CN'
-
+import zh_TW from './zh_TW'
 
 export default defineConfig({
     locales: {
@@ -17,11 +17,11 @@ export default defineConfig({
             themeConfig: en.themeConfig,
             description: en.description
         },
-        zh-TW: {
+        zh_TW: {
             label: '繁体中文',
-            lang: zh-TW.lang,
-            themeConfig: zh-TW.themeConfig,
-            description: zh-TW.description
+            lang: zh_TW.lang,
+            themeConfig: zh_TW.themeConfig,
+            description: zh_TW.description
         },
     }
 })

@@ -34,8 +34,8 @@ export default defineConfig({
 
 function nav() {
     return [
-        { text: '下載', link: '/Download.html' },
+        { text: '下載', link: '/zh_TW/Download.html' },
         { text: '贊助', link: 'https://www.sevtinge.cc/t/donation.html' },
-        { text: '感謝名單', link: '/Thank.html' }
+        { text: '感謝名單', link: '/zh_TW/Thank.html' }
     ]
 }

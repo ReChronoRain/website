@@ -4,7 +4,7 @@
  
 - [藍奏雲下載點](https://api.sevtinge.cc/update.php)
 
-意見回饋 & 交流群：[點擊查看](/Support.html)
+意見回饋 & 交流群：[點擊查看](/zh_TW/Support.html)
 
 **PS: 僅支援 Android 11 以上系統版本，Android 10 以下系統版本無法使用**
 
