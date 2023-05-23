@@ -17,5 +17,11 @@ export default defineConfig({
             themeConfig: en.themeConfig,
             description: en.description
         },
+        zh-TW: {
+            label: '繁体中文',
+            lang: zh-TW.lang,
+            themeConfig: zh-TW.themeConfig,
+            description: zh-TW.description
+        },
     }
 })
