@@ -11,7 +11,7 @@ export default defineConfig({
         darkModeSwitchLabel: '深色模式',
         returnToTopLabel: '回到顶部',
         outline: {
-            label: '目錄'
+            label: '目录'
         },
 
         editLink: {
