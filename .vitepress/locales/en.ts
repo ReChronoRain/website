@@ -1,8 +1,4 @@
-import { createRequire } from 'module'
 import { defineConfig } from 'vitepress'
-
-const require = createRequire(import.meta.url)
-const pkg = require('vitepress/package.json')
 
 export default defineConfig({
     lang: 'en-US',
@@ -11,17 +7,9 @@ export default defineConfig({
     themeConfig: {
         nav: nav(),
 
-        socialLinks: [
-            { icon: 'github', link: 'https://github.com/Cemiuiler-Development-Team/Cemiuiler' }
-        ],
-
-        footer: {
-            message: 'AGPL-3.0 Licensed',
-            copyright: 'Copyright © 2023 Sevtinge'
-        },
-
         editLink: {
             pattern: 'https://github.com/Cemiuiler-Development-Team/website/edit/main/:path',
+            text: 'Edit this page on GitHub'
         }
     }
 })

@@ -1,6 +1,6 @@
 # 下載
 
-- [GitHub Releases 下載](https://github.com/Sevtinge/Cemiuiler/releases)
+- [GitHub Releases 下載](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
  
 - [藍奏雲下載點](https://api.sevtinge.cc/update.php)
 

@@ -15,7 +15,7 @@ hero:
       link: /Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/Sevtinge/Cemiuiler
+      link: https://github.com/Cemiuiler-Development-Team/Cemiuiler
     - theme: alt
       text: 感谢列表
       link: /Thank.html
