@@ -48,6 +48,6 @@ pnpm run dev
 
 ## 感谢
 
-贡献者列表参阅 [contributors](https://github.com/Cemiuiler-Development-Team/website/graphs/contributors)
+贡献者列表参阅 [Contributors](https://github.com/Cemiuiler-Development-Team/website/graphs/contributors)
 
-感谢 [vitepress](https://vitepress.dev) 以及 [vuepress](https://v2.vuepress.vuejs.org)(曾使用) 框架
+感谢 [VitePress](https://vitepress.dev) 以及 [VuePress](https://v2.vuepress.vuejs.org)(曾使用) 框架
