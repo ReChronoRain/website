@@ -2,7 +2,7 @@
 
 - [GitHub Releases](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
  
-- [Lanzou Cloud (For Mainland China Users)](https://api.sevtinge.cc/update.php)
+- [Lanzou Cloud (For Mainland China Users)](http://api.sevtinge.cc/update.php)
 
 Feedback & Communication: [Click here](/en/Support.html)
 

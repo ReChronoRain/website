@@ -2,7 +2,7 @@
 
 - [GitHub Releases 下载](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
  
-- [蓝奏云直链下载](https://api.sevtinge.cc/update.php)
+- [蓝奏云直链下载](http://api.sevtinge.cc/update.php)
 
 意见反馈&交流群：[点击查看](/Support.html)
 
