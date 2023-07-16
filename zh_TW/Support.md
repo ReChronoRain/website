@@ -10,6 +10,6 @@
 - Telegram 頻道: [Cemiuiler | Release & Notice](https://t.me/s/cemiuiler_release)
 - Telegram 頻道: [Cemiuiler | Beta](https://t.me/s/cemiuiler_beta)
 - Telegram 頻道: [Cemiuiler | Canary Verify](https://t.me/s/cemiuiler_canary_verify)
-- Telegram 群組: [Cemiuiler | Chat & Feedback](https://t.me/cemiuiler_chatfree)
+- Telegram 群組: [Cemiuiler | Chat & Feedback](https://t.me/cemiuiler)
 - QQ 頻道: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
 - QQ 群組: [绀漓手持锟斤拷，口中直呼烫烫烫](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
