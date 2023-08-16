@@ -1,5 +1,22 @@
 # 下載
-
+<script>
+  export default {
+    mounted() {
+      fetch('https://api.github.com/repos/Cemiuiler-Development-Team/Cemiuiler/releases/latest')
+        .then(response => response.json())
+        .then(data => {
+          if (document.getElementById("info")) {
+            const body = data.body.replace(/\r\n/g, '<br/>')
+            document.getElementById('info').innerHTML = body
+          }
+          document.getElementById('version').innerHTML = data.name
+          document.getElementById('date').innerHTML = data.published_at
+          document.getElementById('hidden').innerHTML = ''
+        })
+    }
+  }
+  
+</script>
 - [GitHub Releases 下載](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
  
 - [藍奏雲下載點](http://api.sevtinge.cc/update.php)
@@ -22,7 +39,3 @@
 
 **非官方發佈的檔案可能存在惡意程式碼，請務必在官方網站進行下載！**
 
-<script setup>
-import FetchInfo from '/.vitepress/components/FetchInfo.vue'
-</script>
-<FetchInfo/>
