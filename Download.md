@@ -27,6 +27,7 @@
 
 - [蓝奏云直链下载](https://api.sevtinge.cc/update.php)
 
+- [alist网盘下载](https://alist.heinu.cc/cemiuiler)
 
 
 
