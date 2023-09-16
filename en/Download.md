@@ -19,40 +19,40 @@
   
 </script>
 
--  [GitHub Releases](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
+-  [Lançamentos GitHub](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
  
--  [Lanzou Cloud(For Mainland China Users)](http://api.sevtinge.cc/update.php)
+-  [Lanzou Cloud (Para Usuários da China Continental)](http://api.sevtinge.cc/update.php)
 
-Feedback & Communication: [Click here](/en/Support.html)
+Feedback e Comunicação: [Clique aqui](/en/Support.html)
 
-**PS: Only support Android 11 or above, Android 10 or below can not be used**
+**PS: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado**
 
-## Version Information
+## Informação da Versão
 
-<span id="hidden">The changelog is provided by GitHub, if it continues to fail to load, please change your network environment</span>
+<span id="hidden">O changelog é fornecido pelo GitHub, se continuar falhando ao carregar, altere seu ambiente de rede</span>
 
-Version: <span id="version">Loading...</span>
+Versão: <span id="version">Carregando...</span>
 
-Update Date: <span id="date">Loading...</span>(UTC)
+Data de Atualização: <span id="date">Carregando...</span>(UTC)
 
-## Safety reminder
-::: danger warning
-**Non official installation packages may contain malicious code, please be sure to download them from the official website**
+## Lembrete de segurança
+::: Perigo
+**Pacotes de instalação não oficiais podem conter códigos maliciosos, certifique-se de baixá-los do site oficial**
 :::
 
-**Location of official updates for Cemiuiler**
+**Localização das atualizações oficiais do Cemiuiler**
 
 **Telegram:**
 
-- [Emiuiler | Release&Notice](https://t.me/cemiuiler_release)
+- [Cemiuiler | Release & Notice](https://t.me/cemiuiler_release)
 
-- [Sevtine's bug workshop](https://t.me/sevtinge_mod)
+- [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
 
 
 **BiliBili:**
 
-- [紺漓丨Sevtine](https://space.bilibili.com/526912874?share_medium=android&share_source=copy_link&bbid=XUEAD0CEAA31CC92AA11E37A31FD36C321555&ts=1690248939794)
+- [紺漓丨Sevtinge](https://space.bilibili.com/526912874?share_medium=android&share_source=copy_link&bbid=XUEAD0CEAA31CC92AA11E37A31FD36C321555&ts=1690248939794)
 
 >PS:
 
@@ -61,12 +61,12 @@ Update Date: <span id="date">Loading...</span>(UTC)
 
 **Twitter:**
 
-- [紺漓丨Sevtine](https://twitter.com/sevtinge)
+- [紺漓丨Sevtinge](https://twitter.com/sevtinge)
 
 **GitHub:**
 
-- [Semiiler Development Team/Cemiuiler](https://github.com/sevtinge/cemiuiler)
+- [Cemiuiler Development Team/Cemiuiler](https://github.com/sevtinge/cemiuiler)
 
-**LSposited Warehouse:**
+**Armazém LSPosed:**
 
-- [Semiiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+- [Cemiuiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
