@@ -11,7 +11,7 @@ hero:
     alt: Cemiuiler
   actions:
     - theme: brand
-      text: Download ->
+      text: Download
       link: /pt_br/Download.html
     - theme: alt
       text: GitHub
@@ -26,6 +26,6 @@ features:
   - title: Código aberto
     details: Todo o código é de código aberto no GitHub
   - title: Grátis
-    details: Você pode usá-lo para uso pessoal sem nenhum dinheiro
+    details: Você pode usá-lo para uso pessoal sem pagar nada
 ---
 
