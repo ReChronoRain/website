@@ -18,20 +18,10 @@
   
 </script>
 -  [GitHub Releases](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
- 
--  [Lanzou Cloud (Para usuários da China continental)](http://api.sevtinge.cc/update.php)
 
 Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
 
 **PS: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado**
-
-## Informação da versão
-
-<span id="hidden">O changelog é fornecido pelo GitHub, se continuar falhando ao carregar, altere seu ambiente de rede</span>
-
-Versão: <span id="version">Carregando...</span>
-
-Data de atualização: <span id="date">Carregando...</span>(UTC)
 
 ## Lembrete de segurança
 :::danger AVISO
@@ -44,9 +34,7 @@ Data de atualização: <span id="date">Carregando...</span>(UTC)
 
 - [Cemiuiler | Release & Notice](https://t.me/cemiuiler_release)
 
-- [Sevtine's bug workshop](https://t.me/sevtinge_mod)
-
-
+- [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
 **BiliBili:**
 
@@ -56,7 +44,6 @@ Data de atualização: <span id="date">Carregando...</span>(UTC)
 
 ![bilibili](/images/bilibili.png)
 
-
 **Twitter:**
 
 - [紺漓丨Sevtinge](https://twitter.com/sevtinge)
@@ -65,6 +52,14 @@ Data de atualização: <span id="date">Carregando...</span>(UTC)
 
 - [Cemiuiler Development Team/Cemiuiler](https://github.com/sevtinge/cemiuiler)
 
-**Armazém LSPosed:**
+**Repositório de módulos LSPosed:**
 
 - [Cemiuiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+
+- ## Informação da versão
+
+<span id="hidden">O changelog é fornecido pelo GitHub, se continuar falhando ao carregar, altere seu ambiente de rede</span>
+
+Versão: <span id="version">Carregando...</span>
+
+Data da atualização: <span id="date">Carregando...</span> (UTC)
