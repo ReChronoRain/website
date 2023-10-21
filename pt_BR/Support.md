@@ -1,8 +1,8 @@
 ## Feedback
 
-::: tip Recomenda-se que usuários que possam pagar se inscrevam em nosso [Cemiuiler | Release & Notice](https://t.me/s/cemiuiler_release), e todos os anúncios serão postados no Telegram com prioridade.
+::: tip Recomenda-se que usuários que possam doar se inscrevam em nosso [Cemiuiler | Release & Notice](https://t.me/s/cemiuiler_release), e todos os anúncios serão postados no Telegram com prioridade.
 
-Observação: O grupo de troca é apenas para usuários comunicarem e comentarem bugs, dúvidas do grupo e não podem garantir solução 100%. **Dentro do grupo é proibido conteúdo ilegal**, violar a lei é diretamente banido.
+Observação: O grupo é apenas para os usuários conversarem, comentarem bugs e dúvidas do grupo. **Dentro do grupo é proibido conteúdo ilegal**, violar a lei é diretamente banido.
 
 :::
 ## Comunicação do usuário
