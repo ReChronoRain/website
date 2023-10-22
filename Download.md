@@ -25,11 +25,11 @@
  
  - <span id="ghproxy">加载中(如果持续无法加载，请更换网络环境)...</span>
 
-- [蓝奏云直链下载](https://api.sevtinge.cc/update.php)
+- [直链下载](https://api.sevtinge.cc/update.php)
 
 - [alist网盘下载](https://alist.heinu.cc/cemiuiler)
 
-
+> 以上下载方式均可以下载最新版 alist网盘/github release可以下载历史版本
 
 ## 安全提醒
 
