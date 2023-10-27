@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Cemiuiler"
-  text: "Torne a MIUI ótima novamente!"
-  tagline: "Módulo de aprimoramento do sistema MIUI"
+  name: "HyperCeiler"
+  text: "Torne o HyperOS ótimo novamente!"
+  tagline: "Módulo de aprimoramento do sistema HyperOs"
   image:
     src: images/logo.svg
-    alt: Cemiuiler
+    alt: HyperCeiler
   actions:
     - theme: brand
       text: Download
