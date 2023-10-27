@@ -1,12 +1,12 @@
-O Cemiuiler é desenvolvido e operado pela saraSaku.Hj (Reino Unido) Network Technology Co., Ltd. Ele fornece aprimoramento de funções do sistema MIUI e outros serviços, e trabalha junto com a estrutura Xposed. Por este meio, pedimos aos usuários que leiam atentamente e compreendam integralmente este Acordo do usuário do Cemiuiler. Os usuários devem ler atentamente e compreender totalmente os termos deste contrato, especialmente os termos que isentam ou limitam a responsabilidade, resolução de disputas e aplicação legal de saraSaku.Hj. Pedimos aos usuários que leiam atentamente e optem por aceitar ou não este contrato (os menores deverão lê-lo acompanhados de um responsável legal). O uso das funções do Cemiuiler pelo usuário será considerado como aceitação deste contrato e concordância em ficar vinculado aos termos deste contrato. Caso o usuário não concorde com este contrato, não utilize nenhuma função do Cemiuiler. saraSaku.Hj tem o direito de alterar este contrato. Os termos atualizados do contrato serão publicados no site oficial e entrarão em vigor a partir da data de vigência da declaração revisada do contrato.
+O HyperCeiler é desenvolvido e operado pela saraSaku.Hj (Reino Unido) Network Technology Co., Ltd. Ele fornece aprimoramento de funções do sistema MIUI e outros serviços, e trabalha junto com a estrutura Xposed. Por este meio, pedimos aos usuários que leiam atentamente e compreendam integralmente este Acordo do usuário do HyperCeiler. Os usuários devem ler atentamente e compreender totalmente os termos deste contrato, especialmente os termos que isentam ou limitam a responsabilidade, resolução de disputas e aplicação legal de saraSaku.Hj. Pedimos aos usuários que leiam atentamente e optem por aceitar ou não este contrato (os menores deverão lê-lo acompanhados de um responsável legal). O uso das funções do HyperCeiler pelo usuário será considerado como aceitação deste contrato e concordância em ficar vinculado aos termos deste contrato. Caso o usuário não concorde com este contrato, não utilize nenhuma função do HyperCeiler. saraSaku.Hj tem o direito de alterar este contrato. Os termos atualizados do contrato serão publicados no site oficial e entrarão em vigor a partir da data de vigência da declaração revisada do contrato.
 
 ## 0. Versão do contrato e data de vigência
 - 0.1. Versão do contrato: 1.0
 - 0.2. Data de vigência: 2 de outubro de 2023
 
 ## 1. Princípios gerais
-- 1.1. O Cemiuiler é uma ferramenta de aprimoramento do sistema MIUI executada com base na estrutura Xposed. Ela sequestrará seu software e alterará suas funções.
-- 1.2. Este contrato é um acordo entre o usuário e saraSaku.Hj, suas empresas afiliadas e parceiros operacionais em relação ao uso do software ou serviços do Cemiuiler pelo usuário.
+- 1.1. O HyperCeiler é uma ferramenta de aprimoramento do sistema MIUI executada com base na estrutura Xposed. Ela sequestrará seu software e alterará suas funções.
+- 1.2. Este contrato é um acordo entre o usuário e saraSaku.Hj, suas empresas afiliadas e parceiros operacionais em relação ao uso do software ou serviços do HyperCeiler pelo usuário.
 - 1.3. Este software e serviços são fornecidos por saraSaku.Hj.
 - 1.4. Os usuários devem entender que saraSaku.Hj fornece aos usuários apenas o software e serviços relacionados. Além disso, as taxas exigidas para equipamentos relacionados a este software e serviços (como taxas de terminal para este software, etc.) serão suportadas pelos usuários. Ao mesmo tempo, o equipamento, o espaço de armazenamento e outros dados dos usuários serão consumidos quando os usuários usarem este software e serviços relacionados.
 
@@ -20,7 +20,7 @@ O Cemiuiler é desenvolvido e operado pela saraSaku.Hj (Reino Unido) Network Tec
 - 3.1. A fim de melhorar a experiência do usuário e melhorar o conteúdo do serviço, saraSaku.Hj tem o direito de fornecer aos usuários versões substitutas, modificadas e atualizadas do software de tempos em tempos. Cabe ao usuário escolher se deseja atualizar para a última versão. Após o lançamento de uma nova versão do software, saraSaku.Hj não garante que a versão antiga do software continuará disponível.
 
 ## 4. Coleta de informações e uso de informações
-- 4.1. Durante o uso normal do Cemiuiler, poderemos coletar suas informações pessoais e armazená-las em seu dispositivo, mas não enviaremos suas informações para a internet.
+- 4.1. Durante o uso normal do HyperCeiler, poderemos coletar suas informações pessoais e armazená-las em seu dispositivo, mas não enviaremos suas informações para a internet.
 - 4.2. Você está plenamente ciente de que não precisamos obter seu consentimento para coletar e usar suas informações pessoais nas seguintes circunstâncias:
   - 4.2.1. Relacionados à segurança nacional e à segurança da defesa nacional.
   - 4.2.2. Relacionados à segurança pública, saúde pública e grandes interesses públicos.
@@ -35,7 +35,7 @@ O Cemiuiler é desenvolvido e operado pela saraSaku.Hj (Reino Unido) Network Tec
 - 4.3. Também poderemos coletar outras informações que não possam identificar um indivíduo específico (ou seja, informações que não sejam informações pessoais), como dados estatísticos gerados quando você usa serviços específicos, como informações relacionadas ao dispositivo, eventos de atividades diárias, visitas a páginas de eventos, eventos de duração de visitas à página, eventos de sessão e eventos de falha do app. O objetivo da coleta dessas informações é melhorar os serviços que prestamos a você. As categorias e quantidades de informações coletadas dependem de como você utiliza nossos produtos e/ou serviços.
 
 ## 5. Software e serviços do sistema
-- 5.1. Os usuários podem usar as funções de aprimoramento do sistema MIUI fornecidos pelo Cemiuiler.
+- 5.1. Os usuários podem usar as funções de aprimoramento do sistema HyperOS fornecidos pelo HyperCeiler.
 - 5.2. Alguns serviços exigem que os usuários ativem outras permissões. O uso dessas funções indica que o usuário concorda em ativar tais permissões.
 - 5.3. Alguns serviços têm contratos do usuário separados e outras regras de serviço. Os usuários devem ler e concordar com o contrato antes de abrir o software ou serviço.
 
