@@ -5,20 +5,20 @@ layout: home
 hero:
   name: "HyperCeiler"
   text: "Torne o HyperOS ótimo novamente!"
-  tagline: "Módulo de aprimoramento do sistema HyperOs"
+  tagline: "Módulo de aprimoramento do sistema HyperOS"
   image:
     src: images/logo.svg
     alt: HyperCeiler
   actions:
     - theme: brand
       text: Download
-      link: /pt_br/Download.html
+      link: /pt_BR/Download.html
     - theme: alt
       text: GitHub
       link: https://github.com/Cemiuiler-Development-Team/Cemiuiler
     - theme: alt
       text: Obrigado
-      link: /pt_br/Thank.html
+      link: /pt_BR/Thank.html
 
 features:
   - title: Tudo em um
