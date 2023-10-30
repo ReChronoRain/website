@@ -1,0 +1,1 @@
+import{_ as l,o as i,c as a,O as e}from"./chunks/framework.4afe7240.js";const p=JSON.parse('{"title":"〇、协议版本与生效日期","description":"","frontmatter":{},"headers":[],"relativePath":"Privacy.md","filePath":"Privacy.md"}'),r={name:"Privacy.md"},t=e("",15),o=[t];function u(c,s,h,n,d,_){return i(),a("div",null,o)}const m=l(r,[["render",u]]);export{p as __pageData,m as default};
