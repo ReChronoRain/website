@@ -1,8 +1,11 @@
-# Cemiuiler 官方网站
+# Hyperceiler 官方网站
 
-https://cemiuiler.sevtinge.cc
+中文 | [English](/en_README.md)
 
-这里是 Cemiuiler 官网的仓库(前端)
+https://hyperceiler.sevtinge.cc
+
+这里是 Hyperceiler 官网的仓库(前端)
+
 
 ## 开发
 
@@ -11,7 +14,7 @@ https://cemiuiler.sevtinge.cc
 ### 1. 克隆源码
 
 ```bash
-git clone https://github.com/Cemiuiler-Development-Team/website.git
+git clone https://github.com/saraSakuHj/website.git
 ```
 
 ### 2. 安装依赖
@@ -48,6 +51,6 @@ pnpm run dev
 
 ## 感谢
 
-贡献者列表参阅 [Contributors](https://github.com/Cemiuiler-Development-Team/website/graphs/contributors)
+贡献者列表参阅 [Contributors](https://github.com/saraSakuHj/website/graphs/contributors)
 
 感谢 [VitePress](https://vitepress.dev) 以及 [VuePress](https://v2.vuepress.vuejs.org)(曾使用) 框架

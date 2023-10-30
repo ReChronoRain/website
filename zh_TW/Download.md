@@ -2,7 +2,7 @@
 <script>
   export default {
     mounted() {
-      fetch('https://api.github.com/repos/Cemiuiler-Development-Team/Cemiuiler/releases/latest')
+      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
         .then(response => response.json())
         .then(data => {
           if (document.getElementById("info")) {
@@ -17,7 +17,7 @@
   }
   
 </script>
-- [GitHub Releases 下載](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
+- [GitHub Releases 下載](https://github.com/saraSakuHj/Hyperceiler/releases)
  
 - [藍奏雲下載點](http://api.sevtinge.cc/update.php)
 
@@ -31,11 +31,11 @@
 **非官方發佈的安裝包可能存在惡意程式碼，請務必在官方進行下載！**
 :::
 
-**Cemiuiler官方更新的位置**
+**Hyperceiler官方更新的位置**
 
 **Telegram:**
 
-- [Cemiuiler | Release & Notice ]( https://t.me/cemiuiler_release)
+- [Hyperceiler | Release & Notice ]( https://t.me/cemiuiler_release)
 
 - [ Sevtinge's bug workshop ]( https://t.me/sevtinge_mod)
 
@@ -53,11 +53,11 @@
 
 **GitHub:**
 
-- [Cemiuiler-Development-Team/Cemiuiler ]( https://github.com/sevtinge/cemiuiler)
+- [saraSakuHj/Hyperceiler ]( https://github.com/saraSakuHj/Hyperceiler)
 
 **lsposed倉庫：**
 
-- [Cemiuiler]( https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+- [Hyperceiler]( https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
 ## 更新日誌
 

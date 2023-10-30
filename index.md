@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Cemiuiler"
-  text: "让 MIUI 再次伟大！"
-  tagline: "MIUI 系统增强模块"
+  name: "Hyperceiler"
+  text: "让 HyperOS 再次伟大！"
+  tagline: "HyperOS 系统增强模块"
   image:
     src: images/logo.svg
-    alt: Cemiuiler
+    alt: Hyperceiler
   actions:
     - theme: brand
       text: 下载 ->
       link: /Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/Cemiuiler-Development-Team/Cemiuiler
+      link: https://github.com/saraSakuHj/Hyperceiler
     - theme: alt
       text: 感谢列表
       link: /Thank.html

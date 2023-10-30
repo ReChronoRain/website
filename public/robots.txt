@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /images/
-Disallow: /js/
-Disallow: /images/
-Disallow: /assets/
-Sitemap: https://cemiuiler.sevtinge.cc/sitemap.txt

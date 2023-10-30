@@ -1,6 +1,6 @@
 ## Thanks
 
-**Cemiuiler** used some or all of the following open source projects, thanks to the developers of these projects to provide strong support (in no particular order)
+**Hyperceiler** used some or all of the following open source projects, thanks to the developers of these projects to provide strong support (in no particular order)
 
 - [「AndroidHiddenApiBypass」 by LSPosed](https://github.com/LSPosed/AndroidHiddenApiBypass)
 - [「AntiAntiDefraud」 by MinaMichita](https://github.com/MinaMichita/AntiAntiDefraud)

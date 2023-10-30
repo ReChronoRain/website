@@ -1,21 +1,21 @@
-﻿---
+---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "Cemiuiler"
-  text: "讓 MIUI 再次偉大！"
-  tagline: "MIUI 系統增強模組"
+  name: "Hyperceiler"
+  text: "讓 HyperOS 再次偉大！"
+  tagline: "HyperOS 系統增強模組"
   image:
     src: images/logo.svg
-    alt: Cemiuiler
+    alt: Hyperceiler
   actions:
     - theme: brand
       text: 下載 ->
       link: /zh_TW/Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/Cemiuiler-Development-Team/Cemiuiler
+      link: https://github.com/saraSakuHj/Hyperceiler
     - theme: alt
       text: 感謝列表
       link: /zh_TW/Thank.html
