@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import zh_CN from './zh_CN'
 import zh_TW from './zh_TW'
+import pt_BR from './pt_BR'
 import en from './en'
 
 export default defineConfig({
@@ -16,6 +17,12 @@ export default defineConfig({
             lang: zh_TW.lang,
             themeConfig: zh_TW.themeConfig,
             description: zh_TW.description
+        },
+        pt_BR: {
+            label: 'Português (Brasil)',
+            lang: pt_BR.lang,
+            themeConfig: pt_BR.themeConfig,
+            description: pt_BR.description
         },
         en: {
             label: 'English',
