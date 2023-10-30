@@ -3,7 +3,7 @@
 <script>
   export default {
     mounted() {
-      fetch('https://api.github.com/repos/Cemiuiler-Development-Team/Cemiuiler/releases/latest')
+      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
         .then(response => response.json())
         .then(data => {
           if (document.getElementById("info")) {
@@ -13,7 +13,6 @@
           document.getElementById('version').innerHTML = data.name
           document.getElementById('date').innerHTML = data.published_at
           document.getElementById('hidden').innerHTML = ''
-          document.getElementById('ghproxy').innerHTML = '<a href="https://ghproxy.com/https://github.com/Team-Cemiuiler/Cemiuiler/releases/download/1.2.122_beta/Cemiuiler_'+data.name+'.apk" target="_blank">ghproxy反代加速下载</a>'
         })
     }
   }
@@ -21,9 +20,7 @@
 </script>
 
 
-- [GitHub Releases 下载](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
- 
- - <span id="ghproxy">加载中(如果持续无法加载，请更换网络环境)...</span>
+- [GitHub Releases 下载](https://github.com/saraSakuHj/Hyperceiler/releases)
 
 - [直链下载](https://api.sevtinge.cc/update.php)
 
@@ -37,11 +34,11 @@
 **非官方发布的安装包可能存在恶意代码，请务必在官方进行下载！**
 :::
 
-**Cemiuiler官方更新的位置**
+**Hyperceiler官方更新的位置**
 
 **Telegram:**
 
-- [Cemiuiler | Release & Notice ](https://t.me/cemiuiler_release)
+- [Hyperceiler | Release & Notice ](https://t.me/cemiuiler_release)
 
 - [ Sevtinge's bug workshop ](https://t.me/sevtinge_mod)
 
@@ -57,11 +54,11 @@
 
 **GitHub:** 
 
- - [Cemiuiler-Development-Team/Cemiuiler ](https://github.com/sevtinge/cemiuiler)
+ - [saraSakuHj/Hyperceiler ](https://github.com/saraSakuHj/Hyperceiler)
 
 **lsposed仓库:** 
 
-- [Cemiuiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+- [saraSakuHj](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
 ## 意见反馈&交流群：
 

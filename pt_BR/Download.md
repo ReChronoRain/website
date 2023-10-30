@@ -2,7 +2,7 @@
 <script>
   export default {
     mounted() {
-      fetch('https://api.github.com/repos/Cemiuiler-Development-Team/Cemiuiler/releases/latest')
+      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
         .then(response => response.json())
         .then(data => {
           if (document.getElementById("info")) {
@@ -17,7 +17,7 @@
   }
   
 </script>
--  [GitHub Releases](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
+-  [GitHub Releases](https://github.com/saraSakuHj/Hyperceiler/releases)
 
 Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
 
@@ -28,11 +28,11 @@ Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
 **Pacotes de instalação não oficial podem conter códigos maliciosos, certifique-se de baixá-los do site oficial**
 :::
 
-**Localização das atualizações oficiais do Cemiuiler**
+**Localização das atualizações oficiais do Hyperceiler**
 
 **Telegram:**
 
-- [Cemiuiler | Release & Notice](https://t.me/cemiuiler_release)
+- [Hyperceiler | Release & Notice](https://t.me/Hyperceiler_release)
 
 - [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
@@ -50,11 +50,11 @@ Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
 
 **GitHub:**
 
-- [Cemiuiler Development Team/Cemiuiler](https://github.com/sevtinge/cemiuiler)
+- [Hyperceiler Development Team/Hyperceiler](https://github.com/saraSakuHj/Hyperceiler)
 
 **Repositório de módulos LSPosed:**
 
-- [Cemiuiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+- [Hyperceiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
 - ## Informação da versão
 

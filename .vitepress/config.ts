@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 import locales from './locales'
 
 export default defineConfig( {
-    title: 'Cemiuiler',
+    ignoreDeadLinks: true,
+    title: 'Hyperceiler',
     locales: locales.locales,
     srcExclude: ['README.md'],
     head: [
@@ -16,7 +17,7 @@ export default defineConfig( {
             copyright: 'Copyright © 2023 Sevtinge'
         },
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/Cemiuiler-Development-Team/Cemiuiler' }
+            { icon: 'github', link: 'https://github.com/saraSakuHj/Hyperceiler' }
         ]
     }
 })

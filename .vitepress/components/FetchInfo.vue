@@ -3,7 +3,7 @@
 <script>
   export default {
     mounted() {
-      fetch('https://api.github.com/repos/Cemiuiler-Development-Team/Cemiuiler/releases/latest')
+      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
         .then(response => response.json())
         .then(data => {
           if (document.getElementById("info")) {

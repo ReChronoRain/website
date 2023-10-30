@@ -1,6 +1,6 @@
-﻿## 感謝
+## 感謝
 
-**Cemiuiler** 使用了以下開源專案的部分或全部內容，感謝這些專案的開發者提供的大力支援（排名順序不分先後)
+**Hyperceiler** 使用了以下開源專案的部分或全部內容，感謝這些專案的開發者提供的大力支援（排名順序不分先後)
 
 - [「AndroidHiddenApiBypass」 by LSPosed](https://github.com/LSPosed/AndroidHiddenApiBypass)
 - [「AntiAntiDefraud」 by MinaMichita](https://github.com/MinaMichita/AntiAntiDefraud)

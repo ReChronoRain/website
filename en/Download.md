@@ -2,7 +2,7 @@
 <script>
   export default {
     mounted() {
-      fetch('https://api.github.com/repos/Cemiuiler- Development- Team/Cemiuiler/releases/latest')
+      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
         .then(response => response.json())
         .then(data => {
           if(document.getElementById("info")) {
@@ -19,9 +19,7 @@
   
 </script>
 
--  [GitHub Releases](https://github.com/Cemiuiler-Development-Team/Cemiuiler/releases)
- 
--  [Lanzou Cloud(For Mainland China Users)](http://api.sevtinge.cc/update.php)
+-  [GitHub Releases](https://github.com/saraSakuHj/Hyperceiler/releases)
 
 Feedback & Communication: [Click here](/en/Support.html)
 
@@ -40,11 +38,11 @@ Update Date: <span id="date">Loading...</span>(UTC)
 **Non official installation packages may contain malicious code, please be sure to download them from the official website**
 :::
 
-**Location of official updates for Cemiuiler**
+**Location of official updates for Hyperceiler**
 
 **Telegram:**
 
-- [Emiuiler | Release&Notice](https://t.me/cemiuiler_release)
+- [Hyperceiler | Release&Notice](https://t.me/cemiuiler_release)
 
 - [Sevtine's bug workshop](https://t.me/sevtinge_mod)
 
@@ -65,8 +63,8 @@ Update Date: <span id="date">Loading...</span>(UTC)
 
 **GitHub:**
 
-- [Semiiler Development Team/Cemiuiler](https://github.com/sevtinge/cemiuiler)
+- [saraSakuHj/Hyperceiler](https://github.com/saraSakuHj/Hyperceiler)
 
 **LSposited Warehouse:**
 
-- [Semiiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+- [Hyperceiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
