@@ -3,7 +3,7 @@ import locales from './locales'
 
 export default defineConfig( {
     ignoreDeadLinks: true,
-    title: 'Hyperceiler',
+    title: 'HyperCeiler',
     locales: locales.locales,
     srcExclude: ['README.md'],
     head: [

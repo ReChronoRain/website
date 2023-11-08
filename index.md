@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Hyperceiler"
-  text: "让 HyperOS 再次伟大！"
-  tagline: "HyperOS 系统增强模块"
+  name: "HyperCeiler"
+  text: "让 HyperOS/MIUI 再次伟大！"
+  tagline: "HyperOS/MIUI 系统增强模块"
   image:
     src: images/logo.svg
-    alt: Hyperceiler
+    alt: HyperCeiler
   actions:
     - theme: brand
       text: 下载 ->

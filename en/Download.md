@@ -38,11 +38,11 @@ Update Date: <span id="date">Loading...</span>(UTC)
 **Non official installation packages may contain malicious code, please be sure to download them from the official website**
 :::
 
-**Location of official updates for Hyperceiler**
+**Location of official updates for HyperCeiler**
 
 **Telegram:**
 
-- [Hyperceiler | Release&Notice](https://t.me/cemiuiler_release)
+- [HyperCeiler | Release&Notice](https://t.me/cemiuiler_release)
 
 - [Sevtine's bug workshop](https://t.me/sevtinge_mod)
 
@@ -63,7 +63,7 @@ Update Date: <span id="date">Loading...</span>(UTC)
 
 **GitHub:**
 
-- [saraSakuHj/Hyperceiler](https://github.com/saraSakuHj/Hyperceiler)
+- [saraSakuHj/HyperCeiler](https://github.com/saraSakuHj/Hyperceiler)
 
 **LSposited Warehouse:**
 

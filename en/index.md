@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Hyperceiler"
-  text: "Make HyperOS Great Again!"
-  tagline: "HyperOS System Enhancement Module"
+  name: "HyperCeiler"
+  text: "Make HyperOS/MIUI Great Again!"
+  tagline: "HyperOS/MIUI System Enhancement Module"
   image:
     src: images/logo.svg
-    alt: Hyperceiler
+    alt: HyperCeiler
   actions:
     - theme: brand
       text: Download ->

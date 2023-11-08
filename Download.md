@@ -34,11 +34,11 @@
 **非官方发布的安装包可能存在恶意代码，请务必在官方进行下载！**
 :::
 
-**Hyperceiler官方更新的位置**
+**HyperCeiler官方更新的位置**
 
 **Telegram:**
 
-- [Hyperceiler | Release & Notice ](https://t.me/cemiuiler_release)
+- [HyperCeiler | Release & Notice ](https://t.me/cemiuiler_release)
 
 - [ Sevtinge's bug workshop ](https://t.me/sevtinge_mod)
 
@@ -54,7 +54,7 @@
 
 **GitHub:** 
 
- - [saraSakuHj/Hyperceiler ](https://github.com/saraSakuHj/Hyperceiler)
+ - [saraSakuHj/HyperCeiler ](https://github.com/saraSakuHj/Hyperceiler)
 
 **lsposed仓库:** 
 
