@@ -56,3 +56,5 @@
 
 <script setup>
 import FetchInfo from '/.vitepress/components/FetchInfo.vue'
+</script>
+<FetchInfo/>

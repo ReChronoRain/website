@@ -41,3 +41,5 @@ Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 
 <script setup>
 import FetchInfo from '/.vitepress/components/FetchInfo.vue'
+</script>
+<FetchInfo/>

@@ -52,3 +52,5 @@ Update Date: <span id="date">Loading...</span>(UTC)
 
 <script setup>
 import FetchInfo from '/.vitepress/components/FetchInfo.vue'
+</script>
+<FetchInfo/>
