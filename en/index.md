@@ -3,19 +3,19 @@
 layout: home
 
 hero:
-  name: "Cemiuiler"
-  text: "Make MIUI Great Again!"
-  tagline: "MIUI System Enhancement Module"
+  name: "HyperCeiler"
+  text: "Make HyperOS/MIUI Great Again!"
+  tagline: "HyperOS/MIUI System Enhancement Module"
   image:
     src: images/logo.svg
-    alt: Cemiuiler
+    alt: HyperCeiler
   actions:
     - theme: brand
       text: Download ->
       link: /en/Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/Cemiuiler-Development-Team/Cemiuiler
+      link: https://github.com/saraSakuHj/Hyperceiler
     - theme: alt
       text: Thanks
       link: /en/Thank.html

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     lang: 'zh-CN',
-    description: '让 MIUI 再次伟大！',
+    description: '让 HyperOS 再次伟大！',
 
     themeConfig: {
         nav: nav(),
@@ -15,7 +15,7 @@ export default defineConfig({
         },
 
         editLink: {
-            pattern: 'https://github.com/Cemiuiler-Development-Team/website/edit/main/:path',
+            pattern: 'https://github.com/saraSakuHj/website/edit/main/:path',
             text: '在 GitHub 中编辑本页'
         }
     }
@@ -26,6 +26,8 @@ function nav() {
         { text: '下载', link: '/Download.html' },
         { text: '捐赠', link: 'https://www.sevtinge.cc/t/donation.html' },
         { text: '感谢列表', link: '/Thank.html' },
-        { text: '用户交流', link: '/Support.html' }
+        { text: '用户交流', link: '/Support.html' },
+        { text: '用户协议', link: '/Protocol.html' },
+        { text: '用户隐私声明', link: '/Privacy.html' }
     ]
 }

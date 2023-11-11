@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     lang: 'zh-TW',
-    description: '讓 MIUI 再次偉大！',
+    description: '讓 HyperOS 再次偉大！',
 
     themeConfig: {
         nav: nav(),
@@ -15,7 +15,7 @@ export default defineConfig({
         },
 
         editLink: {
-            pattern: 'https://github.com/Cemiuiler-Development-Team/website/edit/main/:path',
+            pattern: 'https://github.com/saraSakuHj/website/edit/main/:path',
             text: '在 GitHub 中編輯此頁'
         }
     }

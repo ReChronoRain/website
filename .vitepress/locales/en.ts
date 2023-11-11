@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     lang: 'en-US',
-    description: 'Make MIUI Great Again!',
+    description: 'Make HyperOS Great Again!',
 
     themeConfig: {
         nav: nav(),
 
         editLink: {
-            pattern: 'https://github.com/Cemiuiler-Development-Team/website/edit/main/:path',
+            pattern: 'https://github.com/saraSakuHj/website/edit/main/:path',
             text: 'Edit this page on GitHub'
         }
     }
