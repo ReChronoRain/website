@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     lang: 'en-US',
-    description: 'Make HyperOS Great Again!',
+    description: 'Make HyperOS/MIUI Great Again!',
 
     themeConfig: {
         nav: nav(),

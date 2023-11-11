@@ -21,7 +21,7 @@ Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 
 **BiliBili:**
 
-- [紺漓丨Sevtinge](https://space.bilibili.com/526912874?share_medium=android&share_source=copy_link&bbid=XUEAD0CEAA31CC92AA11E37A31FD36C321555&ts=1690248939794)
+- [绀漓丨Sevtinge](https://space.bilibili.com/526912874?share_medium=android&share_source=copy_link&bbid=XUEAD0CEAA31CC92AA11E37A31FD36C321555&ts=1690248939794)
 
 >PS:
 
@@ -29,7 +29,7 @@ Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 
 **Twitter:**
 
-- [紺漓丨Sevtinge](https://twitter.com/sevtinge)
+- [绀漓丨Sevtinge](https://twitter.com/sevtinge)
 
 **GitHub:**
 
@@ -38,8 +38,3 @@ Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 **Repositório de módulos LSPosed:**
 
 - [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
-
-<script setup>
-import FetchInfo from '/.vitepress/components/FetchInfo.vue'
-</script>
-<FetchInfo/>

@@ -18,13 +18,13 @@
 
 **Telegram:**
 
-- [HyperCeiler | Release & Notice ]( https://t.me/cemiuiler_release)
+- [HyperCeiler | Release & Notice]( https://t.me/cemiuiler_release)
 
-- [ Sevtinge's bug workshop ]( https://t.me/sevtinge_mod)
+- [Sevtinge's bug workshop]( https://t.me/sevtinge_mod)
 
 **BiliBili:**
 
-- [Sevtinge ]( https://space.bilibili.com/526912874?share_medium=android&share_source=copy_link&bbid=XUEAD0CEAA31CC92AA11E37A31FD36C321555&ts=1690248939794)
+- [绀漓丨Sevtinge](https://space.bilibili.com/526912874)
 
 >PS:
 
@@ -32,15 +32,15 @@
 
 **Twitter:**
 
-- [紺漓丨Sevtinge ]( https://twitter.com/sevtinge)
+- [绀漓丨Sevtinge](https://twitter.com/sevtinge)
 
 **GitHub:**
 
-- [saraSakuHj/HyperCeiler ]( https://github.com/saraSakuHj/Hyperceiler)
+- [saraSakuHj/HyperCeiler](https://github.com/saraSakuHj/Hyperceiler)
 
 **lsposed倉庫：**
 
-- [HyperCeiler]( https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
+- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
 ## 更新日誌
 

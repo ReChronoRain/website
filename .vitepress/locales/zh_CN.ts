@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     lang: 'zh-CN',
-    description: '让 HyperOS 再次伟大！',
+    description: '让 HyperOS/MIUI 再次伟大！',
 
     themeConfig: {
         nav: nav(),
