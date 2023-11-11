@@ -14,14 +14,16 @@ export default {
       .catch(error => {
         console.error('Error fetching data from', githubApiUrl1, 'Error:', error);
         // If the first request fails, try the second one
-        fetch(githubApiUrl2)
-          .then(response => response.json())
-          .then(data => {
-            handleResponse(data);
-          })
-          .catch(error => {
-            console.error('Error fetching data from', githubApiUrl2, 'Error:', error);
-          });
+        setTimeout(() => {
+          fetch(githubApiUrl2)
+            .then(response => response.json())
+            .then(data => {
+              handleResponse(data);
+            })
+            .catch(error => {
+              console.error('Error fetching data from', githubApiUrl2, 'Error:', error);
+            });
+        }, 500);
       });
 
     function handleResponse(data) {

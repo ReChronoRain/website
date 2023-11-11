@@ -14,10 +14,10 @@ export default defineConfig( {
     themeConfig: {
         footer: {
             message: 'AGPL-3.0 Licensed',
-            copyright: 'Copyright © 2023 Sevtinge'
+            copyright: 'Copyright © 2023 saraSaku.Hj & Sevtinge'
         },
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/saraSakuHj/Hyperceiler' }
+            { icon: 'github', link: 'https://github.com/saraSakuHj/HyperCeiler' }
         ]
     }
 })

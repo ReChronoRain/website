@@ -1,6 +1,6 @@
 # HyperCeiler 官方网站
 
-中文 | [English](/en_README.md)
+中文 | [English](/README_en.md)
 
 https://hyperceiler.sevtinge.cc
 
