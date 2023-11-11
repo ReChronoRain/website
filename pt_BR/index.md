@@ -12,13 +12,13 @@ hero:
   actions:
     - theme: brand
       text: Download
-      link: /pt_br/Download.html
+      link: /pt_BR/Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/Cemiuiler-Development-Team/Cemiuiler
+      link: https://github.com/saraSakuHj/HyperCeiler
     - theme: alt
       text: Obrigado
-      link: /pt_br/Thank.html
+      link: /pt_BR/Thank.html
 
 features:
   - title: Tudo em um

@@ -19,7 +19,7 @@
 </script>
 -  [GitHub Releases](https://github.com/saraSakuHj/Hyperceiler/releases)
 
-Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
+Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 
 **PS: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado**
 
@@ -28,11 +28,11 @@ Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
 **Pacotes de instalação não oficial podem conter códigos maliciosos, certifique-se de baixá-los do site oficial**
 :::
 
-**Localização das atualizações oficiais do Hyperceiler**
+**Localização das atualizações oficiais do HyperCeiler**
 
 **Telegram:**
 
-- [Hyperceiler | Release & Notice](https://t.me/Hyperceiler_release)
+- [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
 
 - [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
@@ -50,16 +50,8 @@ Feedback e Comunicação: [Clique aqui](/pt_br/Support.html)
 
 **GitHub:**
 
-- [Hyperceiler Development Team/Hyperceiler](https://github.com/saraSakuHj/Hyperceiler)
+- [HyperCeiler Development Team/HyperCeiler](https://github.com/saraSakuHj/Hyperceiler)
 
 **Repositório de módulos LSPosed:**
 
-- [Hyperceiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
-
-- ## Informação da versão
-
-<span id="hidden">O changelog é fornecido pelo GitHub, se continuar falhando ao carregar, altere seu ambiente de rede</span>
-
-Versão: <span id="version">Carregando...</span>
-
-Data da atualização: <span id="date">Carregando...</span> (UTC)
+- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
