@@ -1,10 +1,10 @@
-#Hyperceiler official website
+#HyperCeiler official website
 
 [中文](/README.md) | English
 
 https://hyperceiler.sevtinge.cc
 
-Here is the warehouse (front-end) of the Hyperceiler official website
+Here is the warehouse (front-end) of the HyperCeiler official website
 
 ## Development
 

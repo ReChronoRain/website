@@ -1,10 +1,10 @@
-# Hyperceiler 官方网站
+# HyperCeiler 官方网站
 
 中文 | [English](/en_README.md)
 
 https://hyperceiler.sevtinge.cc
 
-这里是 Hyperceiler 官网的仓库(前端)
+这里是 HyperCeiler 官网的仓库(前端)
 
 
 ## 开发
