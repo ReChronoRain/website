@@ -1,1 +1,0 @@
-import{_ as e,o,c as a,O as s}from"./chunks/framework.4afe7240.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pt_BR/Protocol.md","filePath":"pt_BR/Protocol.md"}'),r={name:"pt_BR/Protocol.md"},i=s("",27),t=[i];function d(u,n,l,c,m,p){return o(),a("div",null,t)}const g=e(r,[["render",d]]);export{v as __pageData,g as default};
