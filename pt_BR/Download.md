@@ -1,22 +1,5 @@
 # Download
-<script>
-  export default {
-    mounted() {
-      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
-        .then(response => response.json())
-        .then(data => {
-          if (document.getElementById("info")) {
-            const body = data.body.replace(/\r\n/g, '<br/>')
-            document.getElementById('info').innerHTML = body
-          }
-          document.getElementById('version').innerHTML = data.name
-          document.getElementById('date').innerHTML = data.published_at
-          document.getElementById('hidden').innerHTML = ''
-        })
-    }
-  }
-  
-</script>
+
 -  [GitHub Releases](https://github.com/saraSakuHj/Hyperceiler/releases)
 
 Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
@@ -55,3 +38,6 @@ Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 **Repositório de módulos LSPosed:**
 
 - [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+
+<script setup>
+import FetchInfo from '/.vitepress/components/FetchInfo.vue'

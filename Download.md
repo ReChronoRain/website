@@ -1,32 +1,12 @@
 # 下载
 
-<script>
-  export default {
-    mounted() {
-      fetch('https://api.github.com/repos/saraSakuHj/Hyperceiler/releases/latest')
-        .then(response => response.json())
-        .then(data => {
-          if (document.getElementById("info")) {
-            const body = data.body.replace(/\r\n/g, '<br/>')
-            document.getElementById('info').innerHTML = body
-          }
-          document.getElementById('version').innerHTML = data.name
-          document.getElementById('date').innerHTML = data.published_at
-          document.getElementById('hidden').innerHTML = ''
-        })
-    }
-  }
-  
-</script>
-
-
 - [GitHub Releases 下载](https://github.com/saraSakuHj/Hyperceiler/releases)
 
 - [直链下载](https://api.sevtinge.cc/update.php)
 
 - [alist网盘下载](https://alist.heinu.cc/cemiuiler)
 
-> 以上下载方式均可以下载最新版 alist网盘/github release可以下载历史版本
+> 以上下载方式均可以下载最新版 Alist网盘/Github Releases 可以下载历史版本
 
 ## 安全提醒
 
@@ -73,3 +53,6 @@
 更新日期: <span id="date">加载中...</span> (UTC)
 
 <p id="info">加载中...</p>
+
+<script setup>
+import FetchInfo from '/.vitepress/components/FetchInfo.vue'
