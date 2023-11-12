@@ -31,9 +31,9 @@ Feedback & Communication: [Click here](/en/Support.html)
 ![bilibili](/images/bilibili.png)
 
 
-**Twitter:**
+**X (Twitter):**
 
-- [绀漓丨Sevtinge](https://twitter.com/sevtinge)
+- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
 
 **GitHub:**
 
