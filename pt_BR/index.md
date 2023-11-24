@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "HyperCeiler"
   text: "Torne o HyperOS/MIUI ótimo novamente!"
-  tagline: "Módulo de aprimoramento do sistema HyperOs/MIUI"
+  tagline: "Módulo de aprimoramento do sistema HyperOS/MIUI"
   image:
     src: images/logo.svg
     alt: HyperCeiler
@@ -15,7 +15,7 @@ hero:
       link: /pt_BR/Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/saraSakuHj/HyperCeiler
+      link: https://github.com/ReChronoRain/HyperCeiler
     - theme: alt
       text: Obrigado
       link: /pt_BR/Thank.html
