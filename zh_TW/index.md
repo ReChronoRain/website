@@ -11,11 +11,11 @@ hero:
     alt: HyperCeiler
   actions:
     - theme: brand
-      text: 下載 ->
+      text: 下載
       link: /zh_TW/Download.html
     - theme: alt
       text: GitHub
-      link: https://github.com/saraSakuHj/Hyperceiler
+      link: https://github.com/ReChronoRain/HyperCeiler
     - theme: alt
       text: 感謝列表
       link: /zh_TW/Thank.html
