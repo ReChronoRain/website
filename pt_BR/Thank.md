@@ -1,6 +1,6 @@
 ## Obrigado
 
-O **HyperCeiler** usa alguns ou todos os seguintes projetos de código aberto, graças aos desenvolvedores desses projetos por seu apoio (em nenhuma ordem em particular)
+O **HyperCeiler** usa alguns ou todos os projetos a seguir, graças ao apoio dos desenvolvedores desses projetos (em nenhuma ordem em particular).
 
 - [「Accompanist」 por Android Open Source Project, Google Inc.](https://google.github.io/accompanist)
 - [「Android」 por Android Open Source Project, Google Inc.](https://source.android.google.cn/license)
