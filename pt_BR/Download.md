@@ -1,14 +1,14 @@
 # Download
 
--  [GitHub Releases](https://github.com/saraSakuHj/Hyperceiler/releases)
+-  [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
 
-Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
+Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 
-**PS: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado**
+**Observação: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado.**
 
 ## Lembrete de segurança
 :::danger AVISO
-**Pacotes de instalação não oficial podem conter códigos maliciosos, certifique-se de baixá-los do site oficial**
+**Pacotes de instalação não oficial podem conter códigos maliciosos, certifique-se de baixá-los do site oficial.**
 :::
 
 **Localização das atualizações oficiais do HyperCeiler**
@@ -33,7 +33,7 @@ Feedback e Comunicação: [Clique aqui](/pt_BR/Support.html)
 
 **GitHub:**
 
-- [HyperCeiler Development Team/HyperCeiler](https://github.com/saraSakuHj/Hyperceiler)
+- [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
 **Repositório de módulos LSPosed:**
 
