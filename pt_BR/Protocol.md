@@ -100,7 +100,6 @@ O HyperCeiler é desenvolvido e operado pela Re.chronoRain Network Technology (U
 
 ## 12. Outros
 - 12.1. Re.chronoRain notifica os usuários sobre modificações nos termos de serviço, alterações de serviço e outros assuntos importantes por e-mail ou mensagens de texto ou anúncios na web ou outros métodos considerados apropriados por Re.chronoRain. Após Re.chronoRain enviar uma mensagem ao usuário através de qualquer um dos métodos acima, se o usuário não levantar uma objeção por escrito dentro de 3 dias, será considerado que aceitou o conteúdo da nova mensagem.
-- 12.2. Este contrato foi atualizado em 25 de novembro
--  de 2023.
+- 12.2. Este contrato foi atualizado em 25 de novembro de 2023.
 - 12.3. Os títulos de todas as cláusulas deste contrato são apenas para conveniência de leitura e não têm significado real em si mesmos e não podem ser usados ​​como base para a interpretação do significado deste contrato.
 - 12.4. Não importa se parte dos termos deste contrato é inválida ou inexequível por qualquer motivo, os termos restantes ainda serão válidos e vinculativos para ambas as partes.
