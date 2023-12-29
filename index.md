@@ -7,7 +7,7 @@ hero:
   text: "让 HyperOS/MIUI 再次伟大！"
   tagline: "HyperOS/MIUI 系统增强模块"
   image:
-    src: images/logo.svg
+    src: /logo.svg
     alt: HyperCeiler
   actions:
     - theme: brand
