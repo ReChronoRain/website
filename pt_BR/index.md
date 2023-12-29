@@ -7,7 +7,7 @@ hero:
   text: "Torne o HyperOS/MIUI ótimo novamente!"
   tagline: "Módulo de aprimoramento do sistema HyperOs/MIUI"
   image:
-    src: images/logo.svg
+    src: logo.svg
     alt: HyperCeiler
   actions:
     - theme: brand
