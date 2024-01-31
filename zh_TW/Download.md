@@ -38,7 +38,7 @@
 
 - [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
-**lsposed倉庫：**
+**LSPosed倉庫：**
 
 - [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
