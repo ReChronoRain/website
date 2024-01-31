@@ -1,4 +1,4 @@
-## Obrigado
+## Obrigado!
 
 O **HyperCeiler** usa alguns ou todos os projetos a seguir, graças ao apoio dos desenvolvedores desses projetos (em nenhuma ordem em particular).
 
@@ -12,6 +12,7 @@ O **HyperCeiler** usa alguns ou todos os projetos a seguir, graças ao apoio dos
 - [「CorePatch」 por LSPosed](https://github.com/LSPosed/CorePatch)
 - [「CustoMIUIzer」 por MonwF](https://github.com/MonwF/customiuizer)
 - [「CustoMIUIzerMod」 por liyafe1997](https://github.com/liyafe1997/CustoMIUIzerMod)
+- [「ClipboardList」 por 焕晨HChen](https://github.com/HChenX/ClipboardList)
 - [「DexKit」 por LuckyPray](https://github.com/LuckyPray/DexKit)
 - [「Disable app link verify」 por tehcneko](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.applinkverify)
 - [「DisableFlagSecure」 por LSPosed](https://github.com/LSPosed/DisableFlagSecure)
@@ -19,8 +20,11 @@ O **HyperCeiler** usa alguns ou todos os projetos a seguir, graças ao apoio dos
 - [「EzXHelper」 por KyuubiRan](https://github.com/KyuubiRan/EzXHelper)
 - [「FixMiuiMediaControlPanel」 por qqlittleice](https://github.com/qqlittleice/FixMiuiMediaControlPanel)
 - [「FuckNFC」 por xiaowine](https://github.com/xiaowine/FuckNFC)
+- [「ForegroundPin」 por 焕晨HChen](https://github.com/HChenX/ForegroundPin)
 - [「Gson」 por Android Open Source Project, Google Inc.](https://github.com/google/gson)
+- [「Hyper Helper」 por HowieHChen](https://github.com/HowieHChen/XiaomiHelper)
 - [「HideMiuiClipboardDialog」 por zerorooot](https://github.com/zerorooot/HideMiuiClipboardDialog)
+- [「HyperSmartCharge」 por buffcow](https://github.com/buffcow/HyperSmartCharge)
 - [「Kotlin」 por JetBrains](https://github.com/JetBrains/kotlin)
 - [「MaxFreeForm」 por YifePlayte](https://github.com/YifePlayte/MaxFreeForm)
 - [「Miui Feature」 por MoralNorm](https://github.com/moralnorm/miui_feature)
@@ -33,6 +37,7 @@ O **HyperCeiler** usa alguns ou todos os projetos a seguir, graças ao apoio dos
 - [「ModemPro」 por Weverse](https://github.com/Weverses/ModemPro)
 - [「NoStorageRestrict」 por DanGLES3](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict)
 - [「Portal Hook」 por Haocen2004](https://github.com/Haocen2004/PortalHook)
+- [「PinningApp」 por 焕晨HChen](https://github.com/HChenX/PinningApp)
 - [「RemoveMiuiSystemSelfProtection」 por gfbjngjibn](https://github.com/gfbjngjibn/RemoveMiuiSystemSelfProtection)
 - [「SettingsDontThroughTheList」 por weixiansen574](https://github.com/weixiansen574/settingsdontthroughthelist)
 - [「StarVoyager」 por hosizoraru](https://github.com/hosizoraru/StarVoyager)
