@@ -37,4 +37,4 @@ Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 
 **Repositório de módulos LSPosed:**
 
-- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.cemiuiler)
+- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
