@@ -6,7 +6,6 @@ Feedback & Communication: [Click here](/en/Support.html)
 
 **PS: Only support Android 11 or above, Android 10 or below can not be used.**
 
-
 ## Safety reminder
 ::: danger WARNING
 **Non official installation packages may contain malicious code, please be sure to download them from the official website.**
@@ -27,7 +26,6 @@ Feedback & Communication: [Click here](/en/Support.html)
 >PS:
 
 ![bilibili](/images/bilibili.png)
-
 
 **X (Twitter):**
 
