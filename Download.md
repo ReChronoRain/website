@@ -48,15 +48,8 @@
 
 ## 更新日志
 
-<span id="hidden">更新日志由 GitHub 提供，如果持续无法加载，请更换网络环境</span>
-
-版本号: <span id="version">加载中...</span>
-
-更新日期: <span id="date">加载中...</span> (UTC)
-
-<p id="info">加载中...</p>
+<FetchInfo/>
 
 <script setup>
 import FetchInfo from '/.vitepress/components/FetchInfo.vue'
 </script>
-<FetchInfo/>
