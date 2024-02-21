@@ -1,8 +1,8 @@
 # 下載
 
-- [GitHub Releases 下載](https://github.com/ReChronoRain/HyperCeiler/releases)
- 
-- [藍奏雲下載點](http://api.sevtinge.cc/update.php)
+-   [GitHub Releases 下載](https://github.com/ReChronoRain/HyperCeiler/releases)
+
+-   [藍奏雲下載點](http://api.sevtinge.cc/update.php)
 
 意見回饋 & 交流群：[點擊查看](/zh_TW/Support.html)
 
@@ -14,45 +14,45 @@
 **非官方發佈的安裝包可能存在惡意程式碼，請務必在官方進行下載！**
 :::
 
-**HyperCeiler官方更新的位置**
+**HyperCeiler 官方更新的位置**
 
 **Telegram:**
 
-- [HyperCeiler | Release & Notice]( https://t.me/cemiuiler_release)
+-   [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
 
-- [Sevtinge's bug workshop]( https://t.me/sevtinge_mod)
+-   [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
 **BiliBili:**
 
-- [绀漓丨Sevtinge](https://space.bilibili.com/526912874)
+-   [绀漓丨 Sevtinge](https://space.bilibili.com/526912874)
 
->PS:
+> PS:
 
 ![bilibili](/images/bilibili.png)
 
 **X (Twitter):**
 
-- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
+-   [绀漓丨 Sevtinge](https://x.com/CN_Sevtinge)
 
 **GitHub:**
 
-- [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+-   [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
-**LSPosed倉庫：**
+**LSPosed 倉庫：**
 
-- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
+-   [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
-## 更新日誌
+## 更新日志
 
-<span id="hidden">更新日誌由 GitHub 提供，如果持續無法載入，請檢查您的網路環境。</span>
-
-版本號碼: <span id="version">載入中...</span>
-
-更新日期: <span id="date">載入中...</span> (UTC+8:00)
-
-<p id="info">載入中...</p>
+<FetchInfo :i18n="i18n"/>
 
 <script setup>
-import FetchInfo from '/.vitepress/components/FetchInfo.vue'
+import FetchInfo from '/.vitepress/components/FetchInfo.vue';
+
+const i18n = {
+    loading_tips: "正在獲取更新日誌，請稍後... 更新日誌由 Lsposed 提供！如果持續無法加載，請嘗試更換網絡環境",
+    version: "版本號：",
+    update_date: "更新日期：",
+    error_log: "無法獲取更新日誌！",
+}
 </script>
-<FetchInfo/>

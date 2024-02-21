@@ -1,42 +1,49 @@
-<template></template>
-  
+<template>
+	<div id="update_log">
+		<p v-if="loading">{{ i18n.loading_tips }}</p>
+		<div v-if="releases">
+			<p>{{ i18n.version + release.name }}</p>
+			<p>{{ i18n.update_date + release.publishedAt }}</p>
+			<p v-html="release.descriptionHTML"></p>
+		</div>
+		<div v-if="error">
+			<p>{{ i18n.error_log }}</p>
+			<br />
+			<pre>{{ error }}</pre>
+		</div>
+	</div>
+</template>
+
 <script>
 export default {
-  mounted() {
-    const githubApiUrl1 = 'https://api.github.com/repos/saraSakuHj/HyperCeiler/releases/latest';
-    const githubApiUrl2 = 'https://api.github.com/repos/saraSakuHj/Cemiuiler/releases/latest';
-
-    fetch(githubApiUrl1)
-      .then(response => response.json())
-      .then(data => {
-        handleResponse(data);
-      })
-      .catch(error => {
-        console.error('Error fetching data from', githubApiUrl1, 'Error:', error);
-        // If the first request fails, try the second one
-        setTimeout(() => {
-          fetch(githubApiUrl2)
-            .then(response => response.json())
-            .then(data => {
-              handleResponse(data);
-            })
-            .catch(error => {
-              console.error('Error fetching data from', githubApiUrl2, 'Error:', error);
-            });
-        }, 500);
-      });
-
-    function handleResponse(data) {
-      if (document.getElementById("info")) {
-        const body = data.body.replace(/\r\n/g, '<br/>');
-        document.getElementById('info').innerHTML = body;
-      }
-      document.getElementById('version').innerHTML = data.name;
-      document.getElementById('date').innerHTML = data.published_at;
-      document.getElementById('hidden').innerHTML = '';
-    }
-  }
-}
+	props: {
+		i18n: Object,
+	},
+	data() {
+		return {
+			error: false,
+			loading: true,
+			releases: false,
+			release: {}, // 一个玄学问题，解决ts(2568)低级警告（强迫症去世）
+		};
+	},
+	async mounted() {
+		try {
+			const response = await fetch("https://modules.lsposed.org/module/com.sevtinge.hyperceiler.json");
+			const data = await response.json();
+			this.loading = false;
+			this.releases = true;
+			this.release = data.releases[0];
+		} catch (error) {
+			this.loading = false;
+			this.error = error.message;
+		}
+	},
+};
 </script>
 
-  
+<style scoped>
+pre {
+	white-space: pre-wrap;
+}
+</style>

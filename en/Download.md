@@ -1,12 +1,13 @@
 # Download
 
--  [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
+-   [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
 
 Feedback & Communication: [Click here](/en/Support.html)
 
 **PS: Only support Android 11 or above, Android 10 or below can not be used.**
 
 ## Safety reminder
+
 ::: danger WARNING
 **Non official installation packages may contain malicious code, please be sure to download them from the official website.**
 :::
@@ -15,41 +16,41 @@ Feedback & Communication: [Click here](/en/Support.html)
 
 **Telegram:**
 
-- [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
+-   [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
 
-- [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
+-   [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
 **BiliBili:**
 
-- [绀漓丨Sevtinge](https://space.bilibili.com/526912874)
+-   [绀漓丨 Sevtinge](https://space.bilibili.com/526912874)
 
->PS:
+> PS:
 
 ![bilibili](/images/bilibili.png)
 
 **X (Twitter):**
 
-- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
+-   [绀漓丨 Sevtinge](https://x.com/CN_Sevtinge)
 
 **GitHub:**
 
-- [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+-   [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
 **LSposited Warehouse:**
 
-- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
+-   [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
-## Version Information
+## Version Information (Chinese Only)
 
-(Chinese Only)
-
-<span id="hidden">The changelog is provided by GitHub, if it continues to fail to load, please change your network environment.</span>
-
-Version: <span id="version">Loading...</span>
-
-Update Date: <span id="date">Loading...</span>(UTC)
+<FetchInfo :i18n="i18n"/>
 
 <script setup>
-import FetchInfo from '/.vitepress/components/FetchInfo.vue'
+import FetchInfo from '/.vitepress/components/FetchInfo.vue';
+
+const i18n = {
+    loading_tips: "Fetching update log, please wait... Update log provided by Lsposed! If unable to load continuously, try changing the network environment.",
+    version: "Version: ",
+    update_date: "Update Date: ",
+    error_log: "Unable to retrieve update log!",
+}
 </script>
-<FetchInfo/>
