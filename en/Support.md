@@ -8,7 +8,7 @@ Note: The exchange group is only for users to communication and feedback bugs, t
 ## User Communication
 
 - Telegram Channel: [Hyperceiler | Release & Notice](https://t.me/s/cemiuiler_release)
-- Telegram Channel: [Hyperceiler | Beta](https://t.me/s/cemiuiler_beta)
+- Telegram Channel: [Hyperceiler | Beta Test](https://t.me/s/cemiuiler_beta)
 - Telegram Channel: [Hyperceiler | Canary Verify](https://t.me/s/cemiuiler_canary_verify)
 - Telegram Group: [Hyperceiler | Chat & Feedback](https://t.me/cemiuiler)
 - QQ Guild: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
