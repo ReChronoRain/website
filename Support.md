@@ -8,7 +8,7 @@
 ## 用户交流
 
 - Telegram 频道: [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release)
-- Telegram 频道: [HyperCeiler | Beta](https://t.me/s/cemiuiler_beta)
+- Telegram 频道: [HyperCeiler | Beta Test](https://t.me/s/cemiuiler_beta)
 - Telegram 频道: [HyperCeiler | Canary Verify](https://t.me/s/cemiuiler_canary_verify)
 - Telegram 群组: [HyperCeiler | Chat & Feedback](https://t.me/cemiuiler)
 - QQ 频道: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)

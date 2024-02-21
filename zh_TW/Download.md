@@ -1,6 +1,6 @@
 # 下載
 
-- [GitHub Releases 下載](https://github.com/saraSakuHj/Hyperceiler/releases)
+- [GitHub Releases 下載](https://github.com/ReChronoRain/HyperCeiler/releases)
  
 - [藍奏雲下載點](http://api.sevtinge.cc/update.php)
 
@@ -36,9 +36,9 @@
 
 **GitHub:**
 
-- [saraSakuHj/HyperCeiler](https://github.com/saraSakuHj/Hyperceiler)
+- [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
-**lsposed倉庫：**
+**LSPosed倉庫：**
 
 - [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
