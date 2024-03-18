@@ -1,14 +1,15 @@
 # Download
 
--  [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
+- [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
 
 Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 
 **Observação: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado.**
 
 ## Lembrete de segurança
+
 :::danger AVISO
-**Pacotes de instalação não oficial podem conter códigos maliciosos, certifique-se de baixá-los do site oficial.**
+**Pacotes de instalação não oficial pode conter códigos maliciosos, certifique-se de baixá-los do site oficial.**
 :::
 
 **Localização das atualizações oficiais do HyperCeiler**
@@ -21,9 +22,9 @@ Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 
 **BiliBili:**
 
-- [绀漓丨Sevtinge](https://space.bilibili.com/526912874?share_medium=android&share_source=copy_link&bbid=XUEAD0CEAA31CC92AA11E37A31FD36C321555&ts=1690248939794)
+- [绀漓丨Sevtinge](https://space.bilibili.com/526912874)
 
->PS:
+> PS:
 
 ![bilibili](/images/bilibili.png)
 
@@ -38,3 +39,18 @@ Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 **Repositório de módulos LSPosed:**
 
 - [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
+
+## Informações da versão (Somente chinês)
+
+<FetchInfo :i18n="i18n"/>
+
+<script setup>
+import FetchInfo from '/.vitepress/components/FetchInfo.vue';
+
+const i18n = {
+    loading_tips: "Buscando log de atualização, aguarde... Log de atualização fornecido por LSPosed! Se não conseguir carregar continuamente, tente alterar o ambiente de rede.",
+    version: "Versão: ",
+    update_date: "Data da atualização: ",
+    error_log: "Não foi possível recuperar o log da atualização!",
+}
+</script>
