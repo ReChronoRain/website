@@ -1,4 +1,4 @@
-#HyperCeiler official website
+# HyperCeiler official website
 
 [中文](/README.md) | English
 
