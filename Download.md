@@ -1,10 +1,10 @@
 # 下载
 
--   [GitHub Releases 下载](https://github.com/ReChronoRain/HyperCeiler/releases)
+- [GitHub Releases 下载](https://github.com/ReChronoRain/HyperCeiler/releases)
 
--   [直链下载](https://api.sevtinge.cc/update.php)
+- [直链下载](https://api.sevtinge.cc/update.php)
 
--   [Alist 网盘下载](https://alist.heinu.cc/cemiuiler)
+- [Alist 网盘下载](https://alist.heinu.cc/cemiuiler)
 
 > 以上下载方式均可以下载最新版 Alist 网盘/Github Releases 可以下载历史版本
 
@@ -18,13 +18,13 @@
 
 **Telegram:**
 
--   [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
+- [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
 
--   [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
+- [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
 **BiliBili:**
 
--   [绀漓丨 Sevtinge](https://space.bilibili.com/526912874)
+- [绀漓丨Sevtinge](https://space.bilibili.com/526912874)
 
 > PS:
 
@@ -32,15 +32,15 @@
 
 **X (Twitter):**
 
--   [绀漓丨 Sevtinge](https://x.com/CN_Sevtinge)
+- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
 
 **GitHub:**
 
--   [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+- [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
-**lsposed 仓库:**
+**LSPosed 仓库:**
 
--   [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
+- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
 ## 意见反馈&交流群
 
@@ -54,7 +54,7 @@
 import FetchInfo from '/.vitepress/components/FetchInfo.vue';
 
 const i18n = {
-    loading_tips: "正在获取更新日志，请稍后... 更新日志由 Lsposed 提供！如果持续无法加载，请尝试更换网络环境",
+    loading_tips: "正在获取更新日志，请稍后... 更新日志由 LSPosed 提供！如果持续无法加载，请尝试更换网络环境",
     version: "版本号：",
     update_date: "更新日期：",
     error_log: "无法获取更新日志！",
