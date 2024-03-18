@@ -48,7 +48,7 @@ Feedback & Communication: [Click here](/en/Support.html)
 import FetchInfo from '/.vitepress/components/FetchInfo.vue';
 
 const i18n = {
-    loading_tips: "Fetching update log, please wait... Update log provided by Lsposed! If unable to load continuously, try changing the network environment.",
+    loading_tips: "Fetching update log, please wait... Update log provided by LSPosed! If unable to load continuously, try changing the network environment.",
     version: "Version: ",
     update_date: "Update Date: ",
     error_log: "Unable to retrieve update log!",
