@@ -9,7 +9,7 @@
 
 - Telegram 频道: [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release)
 - Telegram 频道: [HyperCeiler | Beta Test](https://t.me/s/cemiuiler_beta)
-- Telegram 频道: [HyperCeiler | Canary Verify](https://t.me/s/cemiuiler_canary_verify)
-- Telegram 群组: [HyperCeiler | Chat & Feedback](https://t.me/cemiuiler)
+- Telegram 频道: [HyperCeiler | Canary Test](https://t.me/cemiuiler_canary)
+- Telegram 群组: [HyperCeiler | Canary Test Feedback](https://t.me/cemiuiler_canary_feedback)
 - QQ 频道: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
-- QQ 群组: [绀漓手持锟斤拷，口中直呼烫烫烫](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
+- QQ 群组: [绀漓！群里全是furry！](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
