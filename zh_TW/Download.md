@@ -1,8 +1,8 @@
 # 下載
 
--   [GitHub Releases 下載](https://github.com/ReChronoRain/HyperCeiler/releases)
+- [GitHub Releases 下載](https://github.com/ReChronoRain/HyperCeiler/releases)
 
--   [藍奏雲下載點](http://api.sevtinge.cc/update.php)
+- [藍奏雲下載點](http://api.sevtinge.cc/update.php)
 
 意見回饋 & 交流群：[點擊查看](/zh_TW/Support.html)
 
@@ -18,13 +18,13 @@
 
 **Telegram:**
 
--   [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
+- [HyperCeiler | Release & Notice](https://t.me/cemiuiler_release)
 
--   [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
+- [Sevtinge's bug workshop](https://t.me/sevtinge_mod)
 
 **BiliBili:**
 
--   [绀漓丨 Sevtinge](https://space.bilibili.com/526912874)
+- [绀漓丨Sevtinge](https://space.bilibili.com/526912874)
 
 > PS:
 
@@ -32,15 +32,15 @@
 
 **X (Twitter):**
 
--   [绀漓丨 Sevtinge](https://x.com/CN_Sevtinge)
+- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
 
 **GitHub:**
 
--   [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+- [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 
 **LSPosed 倉庫：**
 
--   [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
+- [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
 ## 更新日志
 
@@ -50,7 +50,7 @@
 import FetchInfo from '/.vitepress/components/FetchInfo.vue';
 
 const i18n = {
-    loading_tips: "正在獲取更新日誌，請稍後... 更新日誌由 Lsposed 提供！如果持續無法加載，請嘗試更換網絡環境",
+    loading_tips: "正在獲取更新日誌，請稍後... 更新日誌由 LSPosed 提供！如果持續無法加載，請嘗試更換網絡環境",
     version: "版本號：",
     update_date: "更新日期：",
     error_log: "無法獲取更新日誌！",
