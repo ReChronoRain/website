@@ -9,7 +9,7 @@ Note: The exchange group is only for users to communication and feedback bugs, t
 
 - Telegram Channel: [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release)
 - Telegram Channel: [HyperCeiler | Beta Test](https://t.me/s/cemiuiler_beta)
-- Telegram Channel: [HyperCeiler | Canary Verify](https://t.me/s/cemiuiler_canary_verify)
-- Telegram Group: [HyperCeiler | Chat & Feedback](https://t.me/cemiuiler)
+- Telegram Channel: [HyperCeiler | Canary Test](https://t.me/cemiuiler_canary)
+- Telegram Group: [HyperCeiler | Canary Test Feedback](https://t.me/cemiuiler_canary_feedback)
 - QQ Guild: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
-- QQ Group: [绀漓手持锟斤拷，口中直呼烫烫烫](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
+- QQ Group: [绀漓！群里全是furry！](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
