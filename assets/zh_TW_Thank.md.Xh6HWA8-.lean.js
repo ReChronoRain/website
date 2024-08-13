@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a2 as i}from"./chunks/framework.BvCKZEGt.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh_TW/Thank.md","filePath":"zh_TW/Thank.md"}'),o={name:"zh_TW/Thank.md"},a=i("",3),l=[a];function n(h,b,s,g,f,u){return t(),r("div",null,l)}const _=e(o,[["render",n]]);export{p as __pageData,_ as default};

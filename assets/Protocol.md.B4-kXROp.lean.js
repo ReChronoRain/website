@@ -1,0 +1,1 @@
+import{_ as i,c as l,o,a2 as a}from"./chunks/framework.BvCKZEGt.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Protocol.md","filePath":"Protocol.md"}'),e={name:"Protocol.md"},n=a("",27),r=[n];function h(R,c,t,u,d,s){return o(),l("div",null,r)}const _=i(e,[["render",h]]);export{b as __pageData,_ as default};
