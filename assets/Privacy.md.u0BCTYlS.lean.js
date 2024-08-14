@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,a2 as a}from"./chunks/framework.BvCKZEGt.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Privacy.md","filePath":"Privacy.md"}'),r={name:"Privacy.md"},o=a("",15),t=[o];function n(h,u,c,s,d,_){return e(),i("div",null,t)}const m=l(r,[["render",n]]);export{p as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as a,a2 as i}from"./chunks/framework.BvCKZEGt.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"README_en.md","filePath":"README_en.md"}'),n={name:"README_en.md"},t=i("",18),l=[t];function r(p,h,o,c,d,k){return a(),s("div",null,l)}const b=e(n,[["render",r]]);export{g as __pageData,b as default};
