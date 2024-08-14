@@ -9,5 +9,5 @@ Observação: O grupo é apenas para os usuários conversarem, comentarem bugs e
 
 - Canal Telegram: [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release)
 - Canal Telegram: [HyperCeiler | Beta Test](https://t.me/s/cemiuiler_beta)
-- Canal Telegram: [HyperCeiler | Canary Verify](https://t.me/s/cemiuiler_canary_verify)
-- Grupo Telegram: [HyperCeiler | Chat & Feedback](https://t.me/cemiuiler)
+- Canal Telegram: [HyperCeiler | Canary Test](https://t.me/cemiuiler_canary)
+- Grupo Telegram: [HyperCeiler | Canary Test Feedback](https://t.me/cemiuiler_canary_feedback)

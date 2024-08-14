@@ -27,6 +27,7 @@ O **HyperCeiler** usa alguns ou todos os projetos a seguir, graças ao apoio dos
 - [「HyperSmartCharge」 por buffcow](https://github.com/buffcow/HyperSmartCharge)
 - [「Kotlin」 por JetBrains](https://github.com/JetBrains/kotlin)
 - [「MaxFreeForm」 por YifePlayte](https://github.com/YifePlayte/MaxFreeForm)
+- [「MediaControl-BlurBg」 por YuKongA](https://github.com/YuKongA/MediaControl-BlurBg)
 - [「Miui Feature」 por MoralNorm](https://github.com/moralnorm/miui_feature)
 - [「MiuiHomeR」 por qqlittleice](https://github.com/qqlittleice/MiuiHome_R)
 - [「MIUI IME Unlock」 por RC1844](https://github.com/RC1844/MIUI_IME_Unlock)

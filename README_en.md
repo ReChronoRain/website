@@ -1,10 +1,10 @@
-#HyperCeiler official website
+# HyperCeiler official website
 
 [中文](/README.md) | English
 
 https://hyperceiler.sevtinge.cc
 
-Here is the warehouse (front-end) of the HyperCeiler official website
+Here is the warehouse (front-end) of the HyperCeiler official website.
 
 ## Development
 
@@ -42,14 +42,14 @@ yarndev
 pnpm run dev
 ```
 
-## contribute
+## Contribute
 
-Issues and Pull requests are welcome
+Issues and Pull requests are welcome!
 
-If you want to translate website content into other languages, you need to add a folder for your language in the root directory of this project (such as [en](/en)), and also need to add a folder in [.vitepress/locales](/.vitepress/ locales), add the configuration file for your language
+If you want to translate website content into other languages, you need to add a folder for your language in the root directory of this project (such as [en](/en)), and also need to add a folder in [.vitepress/locales](/.vitepress/locales), add the configuration file for your language.
 
-## grateful
+## Grateful
 
-For the list of contributors, see [Contributors](https://github.com/saraSakuHj/website/graphs/contributors)
+For the list of contributors, see [Contributors](https://github.com/ReChronoRain/website/graphs/contributors)
 
 Thanks to [VitePress](https://vitepress.dev) and [VuePress](https://v2.vuepress.vuejs.org) (used) framework
