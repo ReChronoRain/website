@@ -89,7 +89,7 @@ HyperCeiler是由绀漓丨Sevtinge主导开发，由Re.chronoRain (UK) Network T
 ## 九、知识产权及开放源代码许可声明
 - 9.1. 绀漓丨Sevtinge和/或Re.chronoRain是本软件的知识产权权利人。本软件的一切著作权、商标权、专利权等知识产权，以及与本软件相关的所有信息内 (包括但不限于文字、图片、音频、视频、图表、界面设计、版面框架、有关数据或电子文档等) 均受当地法律法规和相应的国际条约保护，绀漓丨Sevtinge和/或Re.chronoRain享有除The GNU Affero General Public License v3.0 (AGPL-3.0) 开源协议明确规定的内容外的上述知识产权。
 - 9.2. 未经绀漓丨Sevtinge和/或Re.chronoRain书面同意，用户不得为任何商业或非商业目的自行或许可任何第三方实施、利用、转让上述知识产权，绀漓丨Sevtinge和/或Re.chronoRain保留追究上述行为法律责任的权利。
-- 9.3. 本软件基于The GNU Affero General Public License v3.0 (AGPL-3.0) 开源协议进行开放源代码，并按照要求声明出所使用开放源代码库的位置及版权人，若The GNU Affero General Public License v3.0 (AGPL-3.0) 开源协议包含与本协议冲突的部分，以本协议为准。
+- 9.3. 本软件基于The GNU Affero General Public License v3.0 (AGPL-3.0) 开源协议进行开放源代码，并按照要求声明出所使用开放源代码库的位置及版权人。
 
 ## 十、协议变更
 - 10.1. 绀漓丨Sevtinge和/或Re.chronoRain有权在必要时修改本协议条款，协议条款一旦发生变动，将会在相关页面上公布修改后的协议条款。如果不同意所改动的内容，用户应主动取消此项服务。如果用户继续使用服务，则视为接受协议条款的变动。
