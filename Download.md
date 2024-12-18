@@ -30,10 +30,6 @@
 
 ![bilibili](/images/bilibili.png)
 
-**X (Twitter):**
-
-- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
-
 **GitHub:**
 
 - [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
