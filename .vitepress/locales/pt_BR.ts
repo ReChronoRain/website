@@ -17,7 +17,7 @@ export default defineConfig({
 function nav() {
     return [
         { text: 'Download', link: '/pt_BR/Download.html' },
-        { text: 'Doar', link: 'https://www.sevtinge.cc/t/donation.html' },
+        { text: 'Doar', link: 'https://blog.sevtinge.cc/donation' },
         { text: 'Obrigado', link: '/pt_BR/Thank.html' },
         { text: 'Suporte', link: '/pt_BR/Support.html' },
         { text: 'Acordo do usuário', link: '/pt_BR/Protocol.html' },

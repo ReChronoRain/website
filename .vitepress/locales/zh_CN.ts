@@ -24,7 +24,7 @@ export default defineConfig({
 function nav() {
     return [
         { text: '下载', link: '/Download.html' },
-        { text: '捐赠', link: 'https://www.sevtinge.cc/t/donation.html' },
+        { text: '捐赠', link: 'https://blog.sevtinge.cc/donation' },
         { text: '感谢列表', link: '/Thank.html' },
         { text: '用户交流', link: '/Support.html' },
         { text: '用户协议', link: '/Protocol.html' },
