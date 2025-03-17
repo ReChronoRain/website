@@ -4,7 +4,7 @@
 
 Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 
-**Observação: Suporta apenas Android 11 ou superior, Android 10 ou inferior não pode ser usado.**
+**Observação: Suporta apenas Android 11 ou superior, Android 10 ou inferior não é suportado.**
 
 ## Lembrete de segurança
 
@@ -28,10 +28,6 @@ Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 
 ![bilibili](/images/bilibili.png)
 
-**X (Twitter):**
-
-- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
-
 **GitHub:**
 
 - [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
@@ -48,7 +44,7 @@ Feedback e suporte: [Clique aqui](/pt_BR/Support.html)
 import FetchInfo from '/.vitepress/components/FetchInfo.vue';
 
 const i18n = {
-    loading_tips: "Buscando log de atualização, aguarde... Log de atualização fornecido por LSPosed! Se não conseguir carregar continuamente, tente alterar o ambiente de rede.",
+    loading_tips: "Buscando log de atualização, aguarde... O log de atualização é fornecido por LSPosed! Se o carregamento não for concluído, tente alterar o ambiente de rede.",
     version: "Versão: ",
     update_date: "Data da atualização: ",
     error_log: "Não foi possível recuperar o log da atualização!",

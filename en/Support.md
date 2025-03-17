@@ -1,15 +1,16 @@
 ## Feedback
 
-::: tip It is recommended that users who can afford it join our [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release), and all announcements will be posted in Telegram as a priority.
+::: tip
+It's recommended that users who can donate subscribe to the [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release) channel, where all announcements will be posted with priority.
 
-Note: The exchange group is only for users to communication and feedback bugs, the group questions and can not guarantee 100% solution. **Inside the group, illegal content is prohibited**, violate the law directly ban.
-
+Note: The group is intended only for user discussions, bug reports, and clarifying doubts. **Illegal content is prohibited in the group**, and any violation of the law will result in an immediate ban.
 :::
-## User Communication
 
-- Telegram Channel: [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release)
-- Telegram Channel: [HyperCeiler | Beta Test](https://t.me/s/cemiuiler_beta)
-- Telegram Channel: [HyperCeiler | Canary Test](https://t.me/cemiuiler_canary)
-- Telegram Group: [HyperCeiler | Canary Test Feedback](https://t.me/cemiuiler_canary_feedback)
-- QQ Guild: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
-- QQ Group: [绀漓！群里全是furry！](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
+## Support
+
+- Telegram channel: [HyperCeiler | Release & Notice](https://t.me/s/cemiuiler_release)
+- Telegram channel: [HyperCeiler | Beta Test](https://t.me/s/cemiuiler_beta)
+- Telegram channel: [HyperCeiler | Canary Test](https://t.me/cemiuiler_canary)
+- Telegram group: [HyperCeiler | Canary Test Communicate](https://t.me/cemiuiler_canary_feedback)
+- QQ guild: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
+- QQ group: [绀漓！群里全是furry！](https://jq.qq.com/?_wv=1027&k=TedCJq8V)

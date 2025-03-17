@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "HyperCeiler"
-  text: "讓 HyperOS/MIUI 再次偉大！"
-  tagline: "HyperOS/MIUI 系統增強模組"
+  text: "讓 HyperOS 再次偉大！"
+  tagline: "HyperOS 系統增強模組"
   image:
     src: /logo.svg
     alt: HyperCeiler

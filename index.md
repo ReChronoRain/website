@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "HyperCeiler"
-  text: "让 HyperOS/MIUI 再次伟大！"
-  tagline: "HyperOS/MIUI 系统增强模块"
+  text: "让 HyperOS 再次伟大！"
+  tagline: "HyperOS 系统增强模块"
   image:
     src: /logo.svg
     alt: HyperCeiler
@@ -28,4 +28,3 @@ features:
   - title: 免费
     details: 不需要一分钱即可以个人用途使用
 ---
-

@@ -13,7 +13,7 @@ https://hyperceiler.sevtinge.cc
 ### 1. 克隆源码
 
 ```bash
-git clone https://github.com/saraSakuHj/website.git
+git clone https://github.com/ReChronoRain/website.git
 ```
 
 ### 2. 安装依赖
@@ -44,12 +44,12 @@ pnpm run dev
 
 ## 贡献
 
-欢迎提出 Issue 和 Pull request!
+欢迎提出 Issue 和 Pull requests！
 
 如果您想将网站内容翻译为其他语言，您需要在本项目根目录新增您语言的文件夹 (如 [en](/en))，同时需要在 [.vitepress/locales](/.vitepress/locales) 中新增您语言的配置文件。
 
 ## 感谢
 
-贡献者列表参阅 [Contributors](https://github.com/ReChronoRain/website/graphs/contributors)
+贡献者列表参阅 [Contributors](https://github.com/ReChronoRain/website/graphs/contributors)。
 
-感谢 [VitePress](https://vitepress.dev) 以及 [VuePress](https://v2.vuepress.vuejs.org)(曾使用) 框架
+感谢 [VitePress](https://vitepress.dev) 以及 [VuePress](https://v2.vuepress.vuejs.org)（曾使用）框架。

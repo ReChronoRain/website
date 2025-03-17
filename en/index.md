@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "HyperCeiler"
-  text: "Make HyperOS/MIUI Great Again!"
-  tagline: "HyperOS/MIUI System Enhancement Module"
+  text: "Make HyperOS Great Again!"
+  tagline: "HyperOS system enhancement module"
   image:
     src: /logo.svg
     alt: HyperCeiler
@@ -21,11 +21,10 @@ hero:
       link: /en/Thank.html
 
 features:
-  - title: All-In-One
+  - title: All-in-one
     details: This module contains the features of many great modules
-  - title: Open Source
+  - title: Open source
     details: All code is open source on GitHub
   - title: Free
-    details: You can use it for personal use without any money
+    details: You can use it for personal use without paying anything
 ---
-
