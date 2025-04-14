@@ -2,7 +2,7 @@
 
 - [GitHub Releases 下載](https://github.com/ReChronoRain/HyperCeiler/releases)
 
-- [藍奏雲下載點](http://api.sevtinge.cc/update.php)
+- [藍奏雲下載點](https://api.sevtinge.com/api/update.php)
 
 意見回饋 & 交流群：[點擊查看](/zh_TW/Support.html)
 
