@@ -2,7 +2,7 @@
 
 - [GitHub Releases 下载](https://github.com/ReChronoRain/HyperCeiler/releases)
 
-- [直链下载](https://api.sevtinge.cc/update.php)
+- [直链下载](https://api.sevtinge.com/api/update.php)
 
 - [Alist 网盘下载](https://alist.heinu.cc/cemiuiler)
 
