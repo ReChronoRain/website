@@ -2,14 +2,14 @@
 
 - [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
 
-Feedback & Communication: [Click here](/en/Support.html)
+Feedback & support: [Click here](/en/Support.html)
 
-**Note: Only support Android 11 or above, Android 10 or below can not be used.**
+**Note: Supports only Android 11 or above; Android 10 or below isn't supported.**
 
 ## Safety reminder
 
 ::: danger WARNING
-**Non official installation packages may contain malicious code, please be sure to download them from the official website.**
+**Unofficial installation packages may contain malicious code. Make sure to download them only from the official website.**
 :::
 
 **Location of official updates for HyperCeiler**
@@ -28,10 +28,6 @@ Feedback & Communication: [Click here](/en/Support.html)
 
 ![bilibili](/images/bilibili.png)
 
-**X (Twitter):**
-
-- [绀漓丨Sevtinge](https://x.com/CN_Sevtinge)
-
 **GitHub:**
 
 - [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
@@ -40,7 +36,7 @@ Feedback & Communication: [Click here](/en/Support.html)
 
 - [HyperCeiler](https://modules.lsposed.org/module/com.sevtinge.hyperceiler)
 
-## Version Information (Chinese Only)
+## Version information (Chinese only)
 
 <FetchInfo :i18n="i18n"/>
 
@@ -48,9 +44,9 @@ Feedback & Communication: [Click here](/en/Support.html)
 import FetchInfo from '/.vitepress/components/FetchInfo.vue';
 
 const i18n = {
-    loading_tips: "Fetching update log, please wait... Update log provided by LSPosed! If unable to load continuously, try changing the network environment.",
+    loading_tips: "Fetching update log, please wait... The update log is provided by LSPosed! If the loading fails to complete, try changing the network environment.",
     version: "Version: ",
-    update_date: "Update Date: ",
+    update_date: "Update date: ",
     error_log: "Unable to retrieve update log!",
 }
 </script>

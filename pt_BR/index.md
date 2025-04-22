@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "HyperCeiler"
-  text: "Torne o HyperOS/MIUI ótimo novamente!"
-  tagline: "Módulo de aprimoramento do sistema HyperOS/MIUI"
+  text: "Torne o HyperOS ótimo novamente!"
+  tagline: "Módulo de aprimoramento do sistema HyperOS"
   image:
     src: /logo.svg
     alt: HyperCeiler
@@ -28,4 +28,3 @@ features:
   - title: Grátis
     details: Você pode usá-lo para uso pessoal sem pagar nada
 ---
-
