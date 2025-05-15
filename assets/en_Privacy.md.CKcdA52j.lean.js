@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as i,ae as r}from"./chunks/framework.Cthp9TdA.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/Privacy.md","filePath":"en/Privacy.md"}'),a={name:"en/Privacy.md"};function n(s,e,l,c,d,h){return i(),o("div",null,e[0]||(e[0]=[r("",15)]))}const f=t(a,[["render",n]]);export{p as __pageData,f as default};

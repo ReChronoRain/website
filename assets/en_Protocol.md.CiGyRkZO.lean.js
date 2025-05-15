@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as r,ae as a}from"./chunks/framework.Cthp9TdA.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/Protocol.md","filePath":"en/Protocol.md"}'),o={name:"en/Protocol.md"};function s(n,e,l,h,c,d){return r(),i("div",null,e[0]||(e[0]=[a("",27)]))}const m=t(o,[["render",s]]);export{f as __pageData,m as default};
