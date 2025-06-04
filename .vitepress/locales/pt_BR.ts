@@ -27,7 +27,7 @@ function nav() {
         { text: 'Doar', link: 'https://blog.sevtinge.cc/donation' },
         { text: 'Obrigado', link: '/pt_BR/Thank.html' },
         { text: 'Suporte', link: '/pt_BR/Support.html' },
-        { text: 'Acordo do Usuário', link: '/pt_BR/Protocol.html' },
+        { text: 'Contrato do Usuário', link: '/pt_BR/Protocol.html' },
         { text: 'Política de Privacidade', link: '/pt_BR/Privacy.html' }
     ]
 }
