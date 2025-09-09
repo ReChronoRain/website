@@ -1,6 +1,7 @@
 # Download
 
-- [GitHub Releases](https://github.com/ReChronoRain/HyperCeiler/releases)
+- [GitHub Releases](https://githu
+- b.com/ReChronoRain/HyperCeiler/releases)
 
 Feedback & support: [Click here](/en/Support.html)
 
