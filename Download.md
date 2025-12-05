@@ -4,9 +4,9 @@
 
 - [直链下载](https://api.sevtinge.com/api/update.php)
 
-- [Alist 网盘下载](https://alist.heinu.cc/cemiuiler)
+- [OpenList 网盘下载](https://openlist.heinu.cc/hyperceiler)
 
-> 以上下载方式均可以下载最新版 Alist 网盘/Github Releases 可以下载历史版本。
+> 以上下载方式均可以下载最新版 OpenList 网盘/Github Releases 可以下载历史版本。
 
 ## 安全提醒
 
