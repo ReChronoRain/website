@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as n,ae as o}from"./chunks/framework.BQlYxExx.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Protocol.md","filePath":"Protocol.md"}'),a={name:"Protocol.md"};function r(t,i,h,R,c,u){return n(),l("div",null,[...i[0]||(i[0]=[o("",27)])])}const g=e(a,[["render",r]]);export{v as __pageData,g as default};
