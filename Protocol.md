@@ -1,8 +1,8 @@
 HyperCeiler是由绀漓丨Sevtinge主导开发，由Re.chronoRain (UK) Network Technology Co., Ltd. (以下称 "我们" 或 "绀漓丨Sevtinge和/或Re.chronoRain") 运营的，为您提供MIUI/HyperOS系统功能增强等服务的非商业性质的应用，需要依赖Xposed框架。我们在此特别提醒用户认真阅读、充分理解本《HyperCeiler用户协议》(下称 "本协议")。用户应认真阅读、充分理解本协议中各条款，特别涉及免除或者限制绀漓丨Sevtinge和/或Re.chronoRain责任、争议解决和法律适用的条款。请用户审慎阅读并选择接受或不接受本协议 (未成年人应在法定监护人陪同下阅读)。用户使用HyperCeiler功能的行为将视为对本协议的接受，并同意接受本协议各项条款的约束。如用户不同意本协议，请勿使用任何HyperCeiler功能。绀漓丨Sevtinge和/或Re.chronoRain有权修订本协议，更新后的协议条款将在官方网站公布，自修订协议声明的生效之日起生效。
 
 ## 〇、协议版本与生效日期
-- 0.1. 协议版本：1.2
-- 0.2. 生效日期：2024年12月3日
+- 0.1. 协议版本：1.3
+- 0.2. 生效日期：2026年1月9日
 
 ## 一、总则
 - 1.1. HyperCeiler是基于Xposed框架运行的一款非商业性质的MIUI/HyperOS系统增强工具，会对您的软件或系统进行劫持并更改功能。
