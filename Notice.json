@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "title": "公告测试",
+  "content": "测试公告。",
+  "confirmDelaySeconds": -1,
+  "startTime": 1769873824,
+  "endTime": 1769973824,
+  "versionMin": 4429,
+  "versionMax": 4429,
+  "buildType": ["debug"],
+  "androidVersion": [36],
+  "miuiBigVersion": [3],
+  "miuiSmallVersion": [3.3],
+  "lang": ["all"],
+  "signCheckPassNeed": true
+}
