@@ -1,8 +1,9 @@
 {
   "id": 1,
+  "alwaysShow": true,
   "title": "公告测试",
   "content": "测试公告。",
-  "confirmDelaySeconds": -1,
+  "confirmDelaySeconds": 1,
   "startTime": 1769873824,
   "endTime": 1769973824,
   "versionMin": 4429,
