@@ -1,8 +1,10 @@
 # 下载
 
-- [GitHub Releases 下载](https://github.com/ReChronoRain/HyperCeiler/releases)
+- [GitHub Releases 下载](https://github.com/ReChronoRain/HyperCeiler/releases)  
 
-- [直链下载](https://api.sevtinge.com/api/update.php)
+- [OS2分支直链下载](https://api.sevtinge.com/api/update.php?branch=os2)
+
+- [OS3分支直链下载](https://api.sevtinge.com/api/update.php?branch=os3)  
 
 - [OpenList 网盘下载](https://openlist.heinu.cc/hyperceiler)
 
