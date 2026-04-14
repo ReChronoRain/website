@@ -2,7 +2,7 @@
 
 中文 | [English](/README_en.md)
 
-https://hyperceiler.sevtinge.cc
+https://hyperceiler.sevtinge.com
 
 这里是 HyperCeiler 官网的仓库(前端)。
 

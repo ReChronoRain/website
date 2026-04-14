@@ -2,7 +2,7 @@
 
 [中文](/README.md) | English
 
-https://hyperceiler.sevtinge.cc
+https://hyperceiler.sevtinge.com
 
 Here's the front-end of the HyperCeiler official website.
 
