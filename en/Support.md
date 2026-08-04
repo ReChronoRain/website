@@ -13,4 +13,4 @@ Note: The group is intended only for user discussions, bug reports, and clarifyi
 - Telegram channel: [HyperCeiler | Canary Test](https://t.me/cemiuiler_canary)
 - Telegram group: [HyperCeiler | Canary Test Communicate](https://t.me/cemiuiler_canary_feedback)
 - QQ guild: [Sevtinge の 窝](https://pd.qq.com/s/35ooe0ssj)
-- QQ group: [绀漓！群里全是furry！](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
+- QQ group: hrvv[绀漓！群里全是furry！](https://jq.qq.com/?_wv=1027&k=TedCJq8V)
